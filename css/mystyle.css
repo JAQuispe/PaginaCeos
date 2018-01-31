@@ -1,0 +1,22 @@
+.slider{
+  background: url("../imagenes/taxi.jpg");
+  height: 50vh;
+  background-size: cover;
+  background-position: center;
+}
+
+.sliderB{
+  background: url("../imagenes/taxis.jpg");
+  height: 20vh;
+  background-size: cover;
+  background-position: center;
+}
+
+.footer {
+  background-color: #1b1b1b;
+  background-repeat: repeat-x;
+  border-color: #252525;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff222222', endColorstr='#ff111111', GradientType=0);
+  color: white;
+
+}
