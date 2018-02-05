@@ -23,3 +23,8 @@
 th{
   text-align: center;
 }
+
+#map {
+  width:auto;
+  height:500px;
+}
