@@ -13,15 +13,19 @@
 }
 
 .footer {
-  background-color: #2D22C3;
-  background-repeat: repeat-x;
-  border-color: #262629;
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff222222', endColorstr='#ff111111', GradientType=0);
+  bottom: 0;
+  width: 100%;
+  line-height: 60px;
+  background-color: #292b2c;
   color: white;
 }
 
 th{
   text-align: center;
+}
+
+p{
+  text-align: justify;
 }
 
 #map {
