@@ -1,14 +1,6 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Ceos</title>
-    <link href="css/hover-min.css" rel="stylesheet">
-    <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/mystyle.css">
+<?php require ('header.php'); ?>
 
+<<<<<<< HEAD:tarifas.html
   </head>
   <body>
     <section class="container-fluid sliderB d-flex justify-content-center align-items-center"></section>
@@ -44,6 +36,13 @@
 
       <ul class="nav " data-toggle="tab" role="tablist">
 
+=======
+    <section class="container mt-5 mb-5 " >
+        <ul class="nav  "  data-toggle="tab" role="tablist">
+    <section class="container mt-5 mb-5">
+
+      <ul class="nav nav-tabs" data-toggle="tab" role="tablist">
+>>>>>>> c080c63146966931a7dbfab00b2608379e4afdda:tarifas.php
         <li class="nav-item">
           <a class="nav-link" data-toggle="tab" href="#cercado" role="tab">Cercado</a>
         </li>
@@ -77,7 +76,7 @@
           <li class="nav-item">
           <a class="nav-link" data-toggle="tab" href="#yanahuara" role="tab">Yanahuara</a>
         </li>
-         
+
 
 
       </ul>
@@ -92,7 +91,7 @@
           <li class="nav-item">
           <a class="nav-link" data-toggle="tab" href="#sachaca" role="tab">Sachaca</a>
         </li>
-          
+
           <li class="nav-item">
           <a class="nav-link" data-toggle="tab" href="#uchumayo" role="tab">Uchumayo</a>
         </li>
@@ -188,7 +187,7 @@
             </table>
           </div>
           <div class="tab-pane" id="marianoMelgar" role="tabpanel">
-          
+
           <table class="table">
               <thead>
                 <tr>
@@ -266,19 +265,19 @@
                 </tr>
               </tbody>
             </table>
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
+
+
+
+
+
+
+
+
+
+
+
+
+
 
           </div>
           <div class="tab-pane" id="paucarpata" role="tabpanel">
@@ -1482,8 +1481,4 @@
       </div>
     </section>
 
-    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
-  </body>
-</html>
+    <?php require ('footer.php'); ?>
