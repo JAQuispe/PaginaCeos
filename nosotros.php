@@ -1,38 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Ceos</title>
-    <link href="css/hover-min.css" rel="stylesheet">
-    <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/mystyle.css">
-
-  </head>
-  <body>
-    <section class="container-fluid sliderB d-flex justify-content-center align-items-center"></section>
-
-    <nav class="navbar navbar-toggleable-sm navbar-inverse bg-inverse sticky-top">
-      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="ml-5">
-        <a class="navbar-brand hvr-grow-rotate" href="index.html">
-          Ceos Tours
-        </a>
-      </div>
-      <div class="collapse navbar-collapse mr-5" id="navbarNavAltMarkup">
-        <div class="navbar-nav text-center ml-auto">
-          <a class="nav-item nav-link hvr-wobble-top" href="index.html">Inicio <i class="fas fa-home"></i>&emsp;</a>
-          <a class="nav-item nav-link active hvr-wobble-top" href="nosotros.html">Nosotros <i class="fas fa-users"></i>&emsp;<span class="sr-only">(current)</span></a>
-          <a class="nav-item nav-link hvr-wobble-top" href="servicios.html">Servicios <i class="fas fa-car"></i>&emsp;</a>
-          <a class="nav-item nav-link hvr-wobble-top" href="tarifas.html">Tarifas <i class="fas fa-list-alt"></i>&emsp;</a>
-          <a class="nav-item nav-link hvr-wobble-top" href="afiliacion.html">Afiliación <i class="fas fa-handshake"></i>&emsp;</a>
-          <a class="nav-item nav-link hvr-wobble-top" href="contacto.html">Contacto <i class="fas fa-map-marker-alt"></i>&emsp;</a>
-        </div>
-      </div>
-    </nav>
+<?php require ('header.php'); ?>
 
     <section class="container mt-5 mb-5">
       <h3>Nosotros</h3>
@@ -104,8 +70,4 @@
       </div>
     </section>
 
-    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
-  </body>
-</html>
+    <?php require ('footer.php'); ?>
