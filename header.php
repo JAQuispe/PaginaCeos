@@ -10,8 +10,6 @@
   </head>
   <body>
     <section class="container-fluid slider d-flex justify-content-center align-items-center"></section>
-
-    <header>
       <nav class="navbar navbar-toggleable-sm navbar-inverse bg-inverse sticky-top">
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -32,4 +30,3 @@
           </div>
         </div>
       </nav>
-    </header>
