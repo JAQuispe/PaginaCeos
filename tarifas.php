@@ -1,7 +1,6 @@
 <?php require ('header.php'); ?>
 
-    <section class="container mt-5 mb-5 " >
-        <ul class="nav  "  data-toggle="tab" role="tablist">
+ 
     <section class="container mt-5 mb-5">
 
       <ul class="nav nav-tabs" data-toggle="tab" role="tablist">
@@ -67,7 +66,7 @@
 
 
       <div class="container mt-4">
-        <div class="tab-content">
+        <div class="tab-content mt-4">
           <div class="tab-pane active" id="cercado" role="tabpanel">
             <table class="table">
               <thead>
@@ -156,92 +155,70 @@
                   <th colspan="3">Mariano Melgar</th>
                 </tr>
               </thead>
-              <tbody>
+             <tbody>
                 <tr>
-                  <th>Destino</th>
+                  <th>Destino  </th>
                   <th>Precio de Base</th>
                 </tr>
                 <tr>
-                  <td>Parque Lambramani/Nota Camino Real</td>
-                  <td>S/ 5.00</td>
-                </tr>
-                <tr>
-                  <td>Coliseo Arequipa/Hospital Goyeneche(Emergencia)</td>
-                  <td>S/ 6.00</td>
-                </tr>
-                <tr>
-                  <td>IV. Cetenario/Urb. Municipal/La Perla</td>
-                  <td>S/ 6.00</td>
-                </tr>
-                <tr>
-                  <td>Plaza de armas/María Isabel</td>
-                  <td>S/ 8.00</td>
-                </tr>
-                <tr>
-                  <td>Urb. Aurora/Coop. Universitaria</td>
-                  <td>S/ 6.00</td>
-                </tr>
-                <tr>
-                  <td>La Negrita/La Victoria/Don Bosco</td>
+                  <td>Consejo</td>
                   <td>S/ 7.00</td>
                 </tr>
                 <tr>
-                  <td>Palomar/Plaza España </td>
-                  <td>S/ 7.00</td>
+                  <td>Plaza Umachiri</td>
+                  <td>S/ 7.00<td>
                 </tr>
                 <tr>
-                  <td>Francisco Mostajo/SEDAPAR</td>
+                  <td>Sta.Rosa</td>
                   <td>S/ 6.00</td>
                 </tr>
                 <tr>
-                  <td>Vallecito (Los pinos, La Arboleda)</td>
-                  <td>S/ 8.00</td>
+                  <td>Sta. Rita de Casia</td>
+                  <td> S/ 7.00</td>
                 </tr>
                 <tr>
-                  <td>Registros Públicos</td>
-                  <td>S/ 8.00</td>
-                </tr>
-                <tr>
-                  <td>Av. La Marina (Plaza Vea)</td>
-                  <td>S/ 8.00</td>
-                </tr>
-                <tr>
-                  <td>Calle Nueva</td>
+                  <td>Soldado Desconocido</td>
                   <td>S/ 7.00</td>
                 </tr>
                 <tr>
-                  <td>Estadio Melgar/Barraca</td>
-                  <td>S/ 7.00</td>
+                  <td>Alto San Martin</td>
+                  <td>S/ 8.00</td>
                 </tr>
                 <tr>
-                  <td>Parque Selva Alegre</td>
+                  <td>Atalaya</td>
+                  <td>S/10.00</td>
+                </tr>
+              
+                <tr>
+                  <td>Rinconada Cancha</td>
                   <td>S/ 9.00</td>
                 </tr>
                 <tr>
-                  <td>Filtro/Municipalidad/Seguro Social/Peral</td>
-                  <td>S/ 8.00</td>
+                  <td>M.Bustamante(P.Alta)</td>
+                  <td>S/ 9.00</td>
                 </tr>
                 <tr>
-                  <td>San Lázaro/Universidad San Pablo</td>
+                  <td>Jerusalèn Reservorio </td>
                   <td>S/ 10.00</td>
                 </tr>
+                <tr>
+                  <td>Cementerio Jerusalen</td>
+                  <td>S/ 12.00</td>
+                </tr>
+                <tr>
+                  <td>Mirador</td>
+                  <td>S/ 14.00</td>
+                </tr>
+                <tr>
+                  <td>Los Olivos</td>
+                  <td>S/ 14.00</td>
+                </tr>
+               
               </tbody>
             </table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
           </div>
+
+
           <div class="tab-pane" id="paucarpata" role="tabpanel">
             <table class="table">
               <thead>
@@ -255,73 +232,116 @@
                   <th>Precio de Base</th>
                 </tr>
                 <tr>
-                  <td>Parque Lambramani/Nota Camino Real</td>
-                  <td>S/ 5.00</td>
+                  <td>Jesus Maria</td>
+                  <td>S/5.00</td>
                 </tr>
                 <tr>
-                  <td>Coliseo Arequipa/Hospital Goyeneche(Emergencia)</td>
-                  <td>S/ 6.00</td>
+                  <td>Consejo Paucarpata</td>
+                  <td>S/4.00</td>
                 </tr>
                 <tr>
-                  <td>IV. Cetenario/Urb. Municipal/La Perla</td>
-                  <td>S/ 6.00</td>
+                  <td>Guardia Civil</td>
+                  <td>S/4.00</td>
                 </tr>
                 <tr>
-                  <td>Plaza de armas/María Isabel</td>
-                  <td>S/ 8.00</td>
+                  <td>Coliseo de Gallos</td>
+                  <td>S/4.00</td>
                 </tr>
                 <tr>
-                  <td>Urb. Aurora/Coop. Universitaria</td>
-                  <td>S/ 6.00</td>
+                  <td>Iglesia Guardia C.</td>
+                  <td>S/4.00</td>
                 </tr>
                 <tr>
-                  <td>La Negrita/La Victoria/Don Bosco</td>
-                  <td>S/ 7.00</td>
+                  <td>Cesar Vallejo</td>
+                  <td>S/5.00</td>
                 </tr>
                 <tr>
-                  <td>Palomar/Plaza España </td>
-                  <td>S/ 7.00</td>
+                  <td>Leoncio Prado </td>
+                  <td>S/5.00</td>
                 </tr>
                 <tr>
-                  <td>Francisco Mostajo/SEDAPAR</td>
-                  <td>S/ 6.00</td>
+                  <td>Jardines de Porongoche</td>
+                  <td>S/5.00</td>
                 </tr>
                 <tr>
-                  <td>Vallecito (Los pinos, La Arboleda)</td>
-                  <td>S/ 8.00</td>
+                  <td>Apima</td>
+                  <td>S/6.00</td>
                 </tr>
                 <tr>
-                  <td>Registros Públicos</td>
-                  <td>S/ 8.00</td>
+                  <td>15 de Agosto</td>
+                  <td>S/6.00</td>
                 </tr>
                 <tr>
-                  <td>Av. La Marina (Plaza Vea)</td>
-                  <td>S/ 8.00</td>
+                  <td>Progresista</td>
+                  <td>S/6.00</td>
                 </tr>
                 <tr>
-                  <td>Calle Nueva</td>
-                  <td>S/ 7.00</td>
+                  <td>15 de Enero</td>
+                  <td>S/6.00</td>
                 </tr>
                 <tr>
-                  <td>Estadio Melgar/Barraca</td>
-                  <td>S/ 7.00</td>
+                  <td>Urb.Miguel Grau </td>
+                  <td>S/8.00</td>
                 </tr>
                 <tr>
-                  <td>Parque Selva Alegre</td>
-                  <td>S/ 9.00</td>
+                  <td>Policia Canina</td>
+                  <td>S/8.00</td>
                 </tr>
                 <tr>
-                  <td>Filtro/Municipalidad/Seguro Social/Peral</td>
-                  <td>S/ 8.00</td>
+                  <td>Baden</td>
+                  <td>S/5.00</td>
                 </tr>
                 <tr>
-                  <td>San Lázaro/Universidad San Pablo</td>
-                  <td>S/ 10.00</td>
+                  <td>Nuevo Peru</td>
+                  <td>S/5.00</td>
                 </tr>
+                <tr>
+                  <td>Av.Colonial</td>
+                  <td>S/5.00</td>
+                </tr>
+                <tr>
+                  <td>Comisaria C.Blanca</td>
+                  <td>S/6.00</td>
+                </tr>
+                <tr>
+                  <td>Posta de Salud San Juan</td>
+                  <td>S/8.00</td>
+                </tr>
+                <tr>
+                  <td>Sauna Neptuno</td>
+                  <td>S/8.00</td>
+                </tr>
+                <tr>
+                  <td>Cristo Rey</td>
+                  <td>S/5.00</td>
+                </tr>
+                <tr>
+                  <td>Israel</td>
+                  <td>S/8.00</td>
+                </tr>
+                <tr>
+                  <td>La Finca</td>
+                  <td>S/8.00</td>
+                </tr>
+                <tr>
+                  <td>Pozo Negro</td>
+                  <td>S/8.00</td>
+                </tr>
+                <tr>
+                  <td>Baños Jesus </td>
+                  <td>S/10.00</td>
+                </tr>
+                <tr>
+                  <td>Zoologico </td>
+                  <td>S/10.00</td>
+                </tr>
+                
+
+
               </tbody>
             </table>
-
           </div>
+
           <div class="tab-pane" id="miraflores" role="tabpanel">
             <table class="table">
               <thead>
@@ -335,73 +355,73 @@
                   <th>Precio de Base</th>
                 </tr>
                 <tr>
-                  <td>Parque Lambramani/Nota Camino Real</td>
-                  <td>S/ 5.00</td>
+                  <td>Plaza Mayta Capac</td>
+                  <td>S/8.00</td>
                 </tr>
                 <tr>
-                  <td>Coliseo Arequipa/Hospital Goyeneche(Emergencia)</td>
-                  <td>S/ 6.00</td>
+                  <td>Sepulvera </td>
+                  <td>S/7.00</td>
                 </tr>
                 <tr>
-                  <td>IV. Cetenario/Urb. Municipal/La Perla</td>
-                  <td>S/ 6.00</td>
+                  <td>Estadio los Palitos</td>
+                  <td>S/7.00</td>
                 </tr>
                 <tr>
-                  <td>Plaza de armas/María Isabel</td>
-                  <td>S/ 8.00</td>
+                  <td>Tablon</td>
+                  <td>S/7.00</td>
                 </tr>
                 <tr>
-                  <td>Urb. Aurora/Coop. Universitaria</td>
-                  <td>S/ 6.00</td>
+                  <td>Palmeras  </td>
+                  <td>S/8.00</td>
                 </tr>
                 <tr>
-                  <td>La Negrita/La Victoria/Don Bosco</td>
-                  <td>S/ 7.00</td>
+                  <td>Chapi Chico</td>
+                  <td>S/8.00</td>
                 </tr>
                 <tr>
-                  <td>Palomar/Plaza España </td>
-                  <td>S/ 7.00</td>
+                  <td>Alameda Salaberry </td>
+                  <td>S/9.00</td>
                 </tr>
                 <tr>
-                  <td>Francisco Mostajo/SEDAPAR</td>
-                  <td>S/ 6.00</td>
+                  <td>Bomberos  </td>
+                  <td>S/9.00</td>
                 </tr>
                 <tr>
-                  <td>Vallecito (Los pinos, La Arboleda)</td>
-                  <td>S/ 8.00</td>
+                  <td>Ovalo de Marical Castilla</td>
+                  <td>S/6.00</td>
                 </tr>
                 <tr>
-                  <td>Registros Públicos</td>
-                  <td>S/ 8.00</td>
+                  <td>Av.Goyeneche Con Calle Puno</td>
+                  <td>S/7.00</td>
                 </tr>
                 <tr>
-                  <td>Av. La Marina (Plaza Vea)</td>
-                  <td>S/ 8.00</td>
+                  <td>Coop.14 </td>
+                  <td>S/9.00</td>
                 </tr>
                 <tr>
-                  <td>Calle Nueva</td>
-                  <td>S/ 7.00</td>
+                  <td>Alto Misti  </td>
+                  <td>S/10.00</td>
                 </tr>
                 <tr>
-                  <td>Estadio Melgar/Barraca</td>
-                  <td>S/ 7.00</td>
+                  <td>Cristo Obrero</td>
+                  <td>S/10.00</td>
                 </tr>
                 <tr>
-                  <td>Parque Selva Alegre</td>
-                  <td>S/ 9.00</td>
+                  <td>Porvenir  </td>
+                  <td>S/12.00</td>
                 </tr>
                 <tr>
-                  <td>Filtro/Municipalidad/Seguro Social/Peral</td>
-                  <td>S/ 8.00</td>
+                  <td>Comisaria </td>
+                  <td>S/12.00</td>
                 </tr>
-                <tr>
-                  <td>San Lázaro/Universidad San Pablo</td>
-                  <td>S/ 10.00</td>
-                </tr>
+              
               </tbody>
             </table>
-
           </div>
+
+
+
+
            <div class="tab-pane" id="sabandia" role="tabpanel">  <table class="table">
               <thead>
                 <tr>
@@ -414,72 +434,24 @@
                   <th>Precio de Base</th>
                 </tr>
                 <tr>
-                  <td>Parque Lambramani/Nota Camino Real</td>
-                  <td>S/ 5.00</td>
+                  <td>Plaza sabandia</td>
+                  <td>S/7.00</td>
                 </tr>
                 <tr>
-                  <td>Coliseo Arequipa/Hospital Goyeneche(Emergencia)</td>
-                  <td>S/ 6.00</td>
+                  <td>Coripata  </td>
+                  <td>S/7.00</td>
                 </tr>
                 <tr>
-                  <td>IV. Cetenario/Urb. Municipal/La Perla</td>
-                  <td>S/ 6.00</td>
+                  <td>Yumina </td>
+                  <td>S/ 12s.00</td>
                 </tr>
                 <tr>
-                  <td>Plaza de armas/María Isabel</td>
-                  <td>S/ 8.00</td>
+                  <td>Santuario de Chapi(Ida y Vuelta)</td>
+                  <td>S/130.00</td>
                 </tr>
-                <tr>
-                  <td>Urb. Aurora/Coop. Universitaria</td>
-                  <td>S/ 6.00</td>
-                </tr>
-                <tr>
-                  <td>La Negrita/La Victoria/Don Bosco</td>
-                  <td>S/ 7.00</td>
-                </tr>
-                <tr>
-                  <td>Palomar/Plaza España </td>
-                  <td>S/ 7.00</td>
-                </tr>
-                <tr>
-                  <td>Francisco Mostajo/SEDAPAR</td>
-                  <td>S/ 6.00</td>
-                </tr>
-                <tr>
-                  <td>Vallecito (Los pinos, La Arboleda)</td>
-                  <td>S/ 8.00</td>
-                </tr>
-                <tr>
-                  <td>Registros Públicos</td>
-                  <td>S/ 8.00</td>
-                </tr>
-                <tr>
-                  <td>Av. La Marina (Plaza Vea)</td>
-                  <td>S/ 8.00</td>
-                </tr>
-                <tr>
-                  <td>Calle Nueva</td>
-                  <td>S/ 7.00</td>
-                </tr>
-                <tr>
-                  <td>Estadio Melgar/Barraca</td>
-                  <td>S/ 7.00</td>
-                </tr>
-                <tr>
-                  <td>Parque Selva Alegre</td>
-                  <td>S/ 9.00</td>
-                </tr>
-                <tr>
-                  <td>Filtro/Municipalidad/Seguro Social/Peral</td>
-                  <td>S/ 8.00</td>
-                </tr>
-                <tr>
-                  <td>San Lázaro/Universidad San Pablo</td>
-                  <td>S/ 10.00</td>
-                </tr>
+              
               </tbody>
             </table>
-
           </div>
 
            <div class="tab-pane" id="characato" role="tabpanel">
@@ -560,8 +532,8 @@
                 </tr>
               </tbody>
             </table>
-
           </div>
+
            <div class="tab-pane" id="socabaya" role="tabpanel">
              <table class="table">
               <thead>
@@ -575,73 +547,79 @@
                   <th>Precio de Base</th>
                 </tr>
                 <tr>
-                  <td>Parque Lambramani/Nota Camino Real</td>
+                  <td>Tasahuayo</td>
                   <td>S/ 5.00</td>
                 </tr>
                 <tr>
-                  <td>Coliseo Arequipa/Hospital Goyeneche(Emergencia)</td>
+                  <td>Amauta</td>
                   <td>S/ 6.00</td>
                 </tr>
                 <tr>
-                  <td>IV. Cetenario/Urb. Municipal/La Perla</td>
+                  <td>Bustamante</td>
                   <td>S/ 6.00</td>
                 </tr>
                 <tr>
-                  <td>Plaza de armas/María Isabel</td>
-                  <td>S/ 8.00</td>
+                  <td>3 de Octubre</td>
+                  <td>S/ 5.00</td>
                 </tr>
                 <tr>
-                  <td>Urb. Aurora/Coop. Universitaria</td>
+                  <td>San Martin de Socabaya(Piscina)</td>
                   <td>S/ 6.00</td>
                 </tr>
                 <tr>
-                  <td>La Negrita/La Victoria/Don Bosco</td>
-                  <td>S/ 7.00</td>
-                </tr>
-                <tr>
-                  <td>Palomar/Plaza España </td>
-                  <td>S/ 7.00</td>
-                </tr>
-                <tr>
-                  <td>Francisco Mostajo/SEDAPAR</td>
+                  <td>Ciudad Mi trabajo</td>
                   <td>S/ 6.00</td>
                 </tr>
                 <tr>
-                  <td>Vallecito (Los pinos, La Arboleda)</td>
-                  <td>S/ 8.00</td>
-                </tr>
-                <tr>
-                  <td>Registros Públicos</td>
-                  <td>S/ 8.00</td>
-                </tr>
-                <tr>
-                  <td>Av. La Marina (Plaza Vea)</td>
-                  <td>S/ 8.00</td>
-                </tr>
-                <tr>
-                  <td>Calle Nueva</td>
+                  <td>Lara </td>
                   <td>S/ 7.00</td>
                 </tr>
                 <tr>
-                  <td>Estadio Melgar/Barraca</td>
-                  <td>S/ 7.00</td>
+                  <td>Mercado </td>
+                  <td>S/ 6.00</td>
                 </tr>
                 <tr>
-                  <td>Parque Selva Alegre</td>
-                  <td>S/ 9.00</td>
-                </tr>
-                <tr>
-                  <td>Filtro/Municipalidad/Seguro Social/Peral</td>
+                  <td>Bellapampa</td>
                   <td>S/ 8.00</td>
                 </tr>
                 <tr>
-                  <td>San Lázaro/Universidad San Pablo</td>
+                  <td>Los Cristales</td>
+                  <td>S/ 8.00</td>
+                </tr>
+                <tr>
+                  <td>Campiña</td>
+                  <td>S/ 8.00</td>
+                </tr>
+                <tr>
+                  <td>Consejo</td>
                   <td>S/ 10.00</td>
+                </tr>
+                <tr>
+                  <td>Plaza</td>
+                  <td>S/ 10.00</td>
+                </tr>
+                <tr>
+                  <td>Ampli.Socabaya</td>
+                  <td>S/ 12.00</td>
+                </tr>
+                <tr>
+                  <td>Pampa</td>
+                  <td>S/ 12.00</td>
+                </tr>
+                <tr>
+                  <td>La Mansion del Fundador</td>
+                  <td>S/ 10.00</td>
+                </tr>
+
+                <tr>
+                  <td>Penal Horacio Zeballos</td>
+                  <td>S/ 13.00</td>
                 </tr>
               </tbody>
             </table>
 
           </div>
+
           <div class="tab-pane" id="cayma" role="tabpanel">  <table class="table">
               <thead>
                 <tr>
@@ -654,73 +632,76 @@
                   <th>Precio de Base</th>
                 </tr>
                 <tr>
-                  <td>Parque Lambramani/Nota Camino Real</td>
-                  <td>S/ 5.00</td>
+                  <td>Centro Comercial de Cayma</td>
+                  <td>S/10.00</td>
                 </tr>
                 <tr>
-                  <td>Coliseo Arequipa/Hospital Goyeneche(Emergencia)</td>
+                  <td>Consejo de Cayma </td>
+                  <td>S/10.00</td>
+                </tr>
+                <tr>
+                  <td>Real Plaza  </td>
+                  <td>S/12.00</td>
+                </tr>
+                <tr>
+                  <td>Urb.Los Angeles de Cayma</td>
+                  <td>S/ 8.00</td>
+                </tr>
+                <tr>
+                  <td>Hospital de la Policia(B.Horizonte,Mirador)</td>
                   <td>S/ 6.00</td>
                 </tr>
                 <tr>
-                  <td>IV. Cetenario/Urb. Municipal/La Perla</td>
+                  <td>Carmen Alto</td>
+                  <td>S/ 7.00</td>
+                </tr>
+                <tr>
+                  <td>Tomilla</td>
+                  <td>S/ 7.00</td>
+                </tr>
+                <tr>
+                  <td>Acequia Alta</td>
                   <td>S/ 6.00</td>
                 </tr>
                 <tr>
-                  <td>Plaza de armas/María Isabel</td>
-                  <td>S/ 8.00</td>
+                  <td>Clinica San Juan De Dios</td>
+                  <td>S/12.00</td>
                 </tr>
                 <tr>
-                  <td>Urb. Aurora/Coop. Universitaria</td>
-                  <td>S/ 6.00</td>
+                  <td>Buenos Aires</td>
+                  <td>S/18.00</td>
                 </tr>
                 <tr>
-                  <td>La Negrita/La Victoria/Don Bosco</td>
-                  <td>S/ 7.00</td>
+                  <td>Bolognesi</td>
+                  <td>S/18.00</td>
                 </tr>
                 <tr>
-                  <td>Palomar/Plaza España </td>
-                  <td>S/ 7.00</td>
+                  <td>Malvinas Cayma</td>
+                  <td>S/18.00</td>
                 </tr>
                 <tr>
-                  <td>Francisco Mostajo/SEDAPAR</td>
-                  <td>S/ 6.00</td>
+                  <td>Radio Azul Cruce Grifo</td>
+                  <td>S/20.00</td>
                 </tr>
                 <tr>
-                  <td>Vallecito (Los pinos, La Arboleda)</td>
-                  <td>S/ 8.00</td>
+                  <td>Enace Sector 9</td>
+                  <td>S/20.00</td>
                 </tr>
                 <tr>
-                  <td>Registros Públicos</td>
-                  <td>S/ 8.00</td>
+                  <td>Embajada</td>
+                  <td>S/20.00</td>
                 </tr>
                 <tr>
-                  <td>Av. La Marina (Plaza Vea)</td>
-                  <td>S/ 8.00</td>
-                </tr>
-                <tr>
-                  <td>Calle Nueva</td>
-                  <td>S/ 7.00</td>
-                </tr>
-                <tr>
-                  <td>Estadio Melgar/Barraca</td>
-                  <td>S/ 7.00</td>
-                </tr>
-                <tr>
-                  <td>Parque Selva Alegre</td>
-                  <td>S/ 9.00</td>
-                </tr>
-                <tr>
-                  <td>Filtro/Municipalidad/Seguro Social/Peral</td>
-                  <td>S/ 8.00</td>
-                </tr>
-                <tr>
-                  <td>San Lázaro/Universidad San Pablo</td>
-                  <td>S/ 10.00</td>
+                  <td>Sequia Alta</td>
+                  <td>S/20.00</td>
                 </tr>
               </tbody>
             </table>
 
           </div>
+
+
+
           <div class="tab-pane" id="umacollo" role="tabpanel">
             <table class="table">
               <thead>
@@ -800,6 +781,9 @@
               </tbody>
             </table>
           </div>
+
+
+
           <div class="tab-pane" id="tiabaya" role="tabpanel">
            <table class="table">
               <thead>
@@ -878,9 +862,11 @@
                 </tr>
               </tbody>
             </table>
-
-
           </div>
+
+
+
+
           <div class="tab-pane" id="yanahuara" role="tabpanel">
          <table class="table">
               <thead>
@@ -960,8 +946,12 @@
               </tbody>
             </table>
           </div>
+
+
+
+
           <div class="tab-pane" id="cerrocolorado" role="tabpanel">
- <table class="table">
+              <table class="table">
               <thead>
                 <tr>
                   <th colspan="11">Cerro Colorado</th>
@@ -1039,8 +1029,11 @@
               </tbody>
             </table>
           </div>
-          <div class="tab-pane" id="hunter" role="tabpanel">
- <table class="table">
+
+
+
+       <div class="tab-pane" id="hunter" role="tabpanel">
+                <table class="table">
               <thead>
                 <tr>
                   <th colspan="12">Hunter</th>
@@ -1117,7 +1110,7 @@
                 </tr>
               </tbody>
             </table>
-          </div>
+      </div>
           <div class="tab-pane" id="sachaca" role="tabpanel">
  <table class="table">
               <thead>
@@ -1197,6 +1190,10 @@
               </tbody>
             </table>
           </div>
+
+
+
+
           <div class="tab-pane" id="uchumayo" role="tabpanel">
  <table class="table">
               <thead>
@@ -1440,7 +1437,6 @@
           </div>
 
         </div>
-      </div>
-    </section>
+      </section>
 
     <?php require ('footer.php'); ?>
