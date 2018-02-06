@@ -39,5 +39,6 @@
       })
     }
     </script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCb-8O04m2YlL6zmtdguxW4Iev12hoYvTc&callback=myMap"></script>
 
     <?php require ('footer.php'); ?>
