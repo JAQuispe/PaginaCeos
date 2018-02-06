@@ -23,12 +23,12 @@
         </div>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div class="navbar-nav text-center ml-auto">
-            <a class="nav-item nav-link active hvr-wobble-top" href="index.php">Inicio <i class="fas fa-home"></i>&emsp;<span class="sr-only">(current)</span></a>
-            <a class="nav-item nav-link hvr-wobble-top" href="nosotros.php">Nosotros <i class="fas fa-users"></i>&emsp;</a>
-            <a class="nav-item nav-link hvr-wobble-top" href="servicios.php">Servicios <i class="fas fa-car"></i>&emsp;</a>
-            <a class="nav-item nav-link hvr-wobble-top" href="tarifas.php">Tarifas <i class="fas fa-list-alt"></i>&emsp;</a>
-            <a class="nav-item nav-link hvr-wobble-top" href="afiliacion.php">Afiliación <i class="fas fa-handshake"></i>&emsp;</a>
-            <a class="nav-item nav-link hvr-wobble-top" href="contacto.php">Contacto <i class="fas fa-map-marker-alt"></i>&emsp;</a>
+            <a class="nav-item nav-link hvr-wobble-top <?php if($page=='inicio') {echo 'active';}?>" href="index.php">Inicio <i class="fas fa-home"></i>&emsp;</a>
+            <a class="nav-item nav-link hvr-wobble-top <?php if($page=='nosotros') {echo 'active';}?>" href="nosotros.php">Nosotros <i class="fas fa-users"></i>&emsp;</a>
+            <a class="nav-item nav-link hvr-wobble-top <?php if($page=='servicios') {echo 'active';}?>" href="servicios.php">Servicios <i class="fas fa-car"></i>&emsp;</a>
+            <a class="nav-item nav-link hvr-wobble-top <?php if($page=='tarifas') {echo 'active';}?>" href="tarifas.php">Tarifas <i class="fas fa-list-alt"></i>&emsp;</a>
+            <a class="nav-item nav-link hvr-wobble-top <?php if($page=='afiliacion') {echo 'active';}?>" href="afiliacion.php">Afiliación <i class="fas fa-handshake"></i>&emsp;</a>
+            <a class="nav-item nav-link hvr-wobble-top <?php if($page=='contacto') {echo 'active';}?> " href="contacto.php">Contacto <i class="fas fa-map-marker-alt"></i>&emsp;</a>
           </div>
         </div>
       </nav>

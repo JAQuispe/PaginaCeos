@@ -1,4 +1,6 @@
-<?php require ('header.php'); ?>
+<?php $page='nosotros';
+      require ('header.php');
+?>
 
     <section class="container mt-5 mb-5">
       <h3>Nosotros</h3>

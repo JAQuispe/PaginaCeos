@@ -1,4 +1,6 @@
-<?php require ('header.php'); ?>
+<?php $page='contacto';
+      require ('header.php');
+?>
 
     <section class="container mb-5">
       <div class="row">

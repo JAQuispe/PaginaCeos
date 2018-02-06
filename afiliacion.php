@@ -1,4 +1,6 @@
-<?php require ('header.php'); ?>
+<?php $page='afiliacion';
+      require ('header.php');
+?>
 
 <section class="container mt-5 mb-5">
       <div class="media">
