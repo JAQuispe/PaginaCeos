@@ -32,3 +32,8 @@ p{
   width:auto;
   height:500px;
 }
+
+body {
+    margin: 0;
+    padding: 0;
+}

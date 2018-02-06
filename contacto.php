@@ -1,6 +1,7 @@
-<?php require ('header.php'); ?>
-
-    <section class="container mb-5">
+<?php $page='contacto';
+      require ('header.php');
+?>
+    <section class="container" style="background-color: red">
       <div class="row">
         <div class="col-md-7">
           <div id="map" class="container map mt-4"></div>
@@ -22,6 +23,7 @@
             </div>
           </div>
       </div>
+      <br>
     </section>
 
     <script>
@@ -39,5 +41,6 @@
       })
     }
     </script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCb-8O04m2YlL6zmtdguxW4Iev12hoYvTc&callback=myMap"></script>
 
     <?php require ('footer.php'); ?>
