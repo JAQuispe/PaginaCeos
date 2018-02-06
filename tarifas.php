@@ -1,48 +1,10 @@
 <?php require ('header.php'); ?>
 
-<<<<<<< HEAD:tarifas.html
-  </head>
-  <body>
-    <section class="container-fluid sliderB d-flex justify-content-center align-items-center"></section>
-
-    <nav class="navbar navbar-toggleable-sm navbar-inverse bg-inverse sticky-top">
-      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div>
-        <a class="navbar-brand hvr-grow-rotate" href="index.html">
-          Ceos Tours
-        </a>
-      </div>
-      <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-        <div class="navbar-nav text-center ml-auto">
-          <a class="nav-item nav-link hvr-wobble-top" href="index.html">Inicio <i class="fas fa-home"></i>&emsp;</a>
-          <a class="nav-item nav-link hvr-wobble-top" href="nosotros.html">Nosotros <i class="fas fa-users"></i>&emsp;</a>
-          <a class="nav-item nav-link hvr-wobble-top" href="servicios.html">Servicios <i class="fas fa-car"></i>&emsp;</a>
-          <a class="nav-item nav-link active hvr-wobble-top" href="tarifas.html">Tarifas <i class="fas fa-list-alt"></i>&emsp;<span class="sr-only">(current)</span></a>
-          <a class="nav-item nav-link hvr-wobble-top" href="afiliacion.html">Afiliación <i class="fas fa-handshake"></i>&emsp;</a>
-          <a class="nav-item nav-link hvr-wobble-top" href="contacto.html">Contacto <i class="fas fa-map-marker-alt"></i>&emsp;</a>
-        </div>
-      </div>
-    </nav>
-
-
-    <section class="container mt-5 mb-5 " >
-
-
-        <ul class="nav"  data-toggle="tab" role="tablist">
-
-    <section class="container mt-5 mb-5">
-
-      <ul class="nav " data-toggle="tab" role="tablist">
-
-=======
     <section class="container mt-5 mb-5 " >
         <ul class="nav  "  data-toggle="tab" role="tablist">
     <section class="container mt-5 mb-5">
 
       <ul class="nav nav-tabs" data-toggle="tab" role="tablist">
->>>>>>> c080c63146966931a7dbfab00b2608379e4afdda:tarifas.php
         <li class="nav-item">
           <a class="nav-link" data-toggle="tab" href="#cercado" role="tab">Cercado</a>
         </li>
