@@ -1,6 +1,7 @@
 body {
     margin: 0;
     padding: 0;
+    background: 
 }
 
 .slider{
@@ -34,7 +35,7 @@ p{
 }
 
 nav{
-    background-color: #005a65;
+    background-color: #4682B4;
 }
 
 #map {

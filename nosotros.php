@@ -2,7 +2,7 @@
       require ('header.php');
 ?>
 
-    <section class="container mt-5 mb-5">
+    <section class="container">
       <h3>Nosotros</h3>
       <p>Somos una empresa que presta servicios de despacho automatizado de taxis mediante la aplicación taxitel y una plataforma de tecnología satelital, con conductores uniformados y capacitados, flota de autos modernos, tenemos 15 años de experiencia en el mercado.</p>
       <h4>Misión</h4>
@@ -11,7 +11,7 @@
       <p>Que nuestros clientes y consumidores nos elijan siempre como la primera opción, “ser el líder”.</p>
     </section>
 
-    <section class="container mb-5">
+    <section class="container">
       <div class="card-columns">
         <div class="card">
           <img class="card-img-top img-fluid" src="imagenes/card1.jpg" alt="">
