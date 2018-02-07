@@ -10,7 +10,7 @@
   </head>
   <body>
     <section class="container-fluid slider d-flex justify-content-center align-items-center"></section>
-      <nav class="navbar navbar-toggleable-sm navbar-inverse bg-inverse sticky-top">
+      <nav class="navbar navbar-toggleable-sm navbar-inverse sticky-top" id="menu" >
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -30,3 +30,13 @@
           </div>
         </div>
       </nav>
+
+      <script>
+        $(window).scroll(function() {
+          if ($("#menu").offset().top > 15) {
+              $("#menu").addClass("bg-inverse");
+          } else {
+              $("#menu").removeClass("bg-inverse");
+          }
+        });
+      </script>
