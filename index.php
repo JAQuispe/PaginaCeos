@@ -6,7 +6,7 @@
     <section class="container mt-5 mb-5">
       <div class="card-deck">
         <div class="card">
-          <img class="card-img-top img-fluid" src="imagenes/portada.jpg" alt="Card image cap">
+          <img class="card-img-top img-fluid hvr-grow" src="imagenes/portada.jpg" alt="Card image cap">
           <div class="card-block">
             <h4 class="card-title">NUESTROS SERVICIOS</h4>
             <span style="line-height:1.4em;">
