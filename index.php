@@ -1,6 +1,5 @@
 <?php $page='inicio';
       require ('header.php');
-
 ?>
 
     <section class="container mt-5 mb-5">
