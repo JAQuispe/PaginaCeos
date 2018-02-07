@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="css/mystyle.css">
   </head>
   <body>
-    <section class="container-fluid <?php if($page=='inicio') {echo 'slider';} else {echo 'sliderB';}?> d-flex justify-content-center align-items-center"></section>
+    <section class="container-fluid slider d-flex justify-content-center align-items-center"></section>
       <nav class="navbar navbar-toggleable-sm navbar-inverse sticky-top" id="menu" >
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -30,3 +30,13 @@
           </div>
         </div>
       </nav>
+
+      <script>
+        $(window).scroll(function() {
+          if ($("#menu").offset().top > 15) {
+              $("#menu").addClass("bg-inverse");
+          } else {
+              $("#menu").removeClass("bg-inverse");
+          }
+        });
+      </script>
