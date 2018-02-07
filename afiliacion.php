@@ -16,7 +16,7 @@
 8. Carreras más seguras<br>
 9. Comunicación por mensajes.<br>
   </div>
-  <img src="imagenes/imagen1.jpg" alt="Generic placeholder image" class="rounded-circle"><br><br>
+  <img src="imagenes/imagen1.jpg" alt="Generic placeholder image" class="rounded-circle hvr-bounce-in"><br><br>
 </div>
     </section>
      <section class="container mt-5 mb-5">
@@ -33,7 +33,7 @@
 8. DNI del propietario<br>
 9. Recibo agua o luz (uno de los últimos 3 meses)<br>
   </div>
-  <img src="imagenes/imagen2.jpg" alt="Generic placeholder image" class="rounded-circle"><br><br>
+  <img src="imagenes/imagen2.jpg" alt="Generic placeholder image" class="rounded-circle hvr-bounce-in"><br><br>
 </div>
     </section>
      <section class="container mt-5 mb-5">
@@ -48,7 +48,7 @@
 6. Certificado de antecedentes penales y judiciales<br>
 7. Certificado domiciliario<br>
   </div>
-  <img src="imagenes/imagen4.png" alt="Generic placeholder image" class="rounded-circle"><br><br>
+  <img src="imagenes/imagen4.png" alt="Generic placeholder image" class="rounded-circle hvr-bounce-in"><br><br>
 </div>
     </section><br><br>
 
