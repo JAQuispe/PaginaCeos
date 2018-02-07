@@ -20,7 +20,7 @@
 
 
           <div class="col-md-2 ">
-           <img class="rounded-circle" src="imagenes/aaa.png" >  <!-- la imagen debe estar 200 x 200 px-->
+           <img class="rounded-circle hvr-bounce-in" src="imagenes/aaa.png" >  <!-- la imagen debe estar 200 x 200 px-->
           </div>
 
           <div class="col-md-9">
@@ -30,7 +30,7 @@
 
 
           <div class="col-md-2 ">
-           <img class="rounded-circle" src="imagenes/bbb.png" >  <!-- la imagen debe estar 200 x 200 px-->
+           <img class="rounded-circle hvr-bounce-in" src="imagenes/bbb.png" >  <!-- la imagen debe estar 200 x 200 px-->
           </div>
 
           <div class="col-md-9">
@@ -38,7 +38,7 @@
       <p>Entrega y recojo de paquetes o documentos.</p>
            </div>
           <div class="col-md-2 ">
-           <img class="rounded-circle" src="imagenes/ccc.png" >  <!-- la imagen debe estar 200 x 200 px-->
+           <img class="rounded-circle hvr-bounce-in" src="imagenes/ccc.png" >  <!-- la imagen debe estar 200 x 200 px-->
           </div>
 
                     <div class="col-md-9">
@@ -47,7 +47,7 @@
 También realizamos Tour a Cañón del Colca.</p>
   </div>
           <div class="col-md-2 ">
-           <img class="rounded-circle" src="imagenes/ccc.png" >  <!-- la imagen debe estar 200 x 200 px-->
+           <img class="rounded-circle hvr-bounce-in" src="imagenes/ccc.png" >  <!-- la imagen debe estar 200 x 200 px-->
           </div>
 
            <div class="col-md-9">
@@ -56,7 +56,7 @@ También realizamos Tour a Cañón del Colca.</p>
       <p>Arreglo floral en la unidad y otros detalles a solicitud con anticipación.</p>
            </div>
           <div class="col-md-2 ">
-           <img class="rounded-circle" src="imagenes/ccc.png" >  <!-- la imagen debe estar 200 x 200 px-->
+           <img class="rounded-circle hvr-bounce-in" src="imagenes/ccc.png" >  <!-- la imagen debe estar 200 x 200 px-->
           </div>
        <div class="col-md-9">
 
@@ -66,7 +66,7 @@ También realizamos Tour a Cañón del Colca.</p>
       <p>Traslados a conos, playas, centros campestres, etc.</p>
            </div>
           <div class="col-md-2 ">
-           <img class="rounded-circle" src="imagenes/ccc.png" >  <!-- la imagen debe estar 200 x 200 px-->
+           <img class="rounded-circle hvr-bounce-in" src="imagenes/ccc.png" >  <!-- la imagen debe estar 200 x 200 px-->
           </div>
 
       </div>

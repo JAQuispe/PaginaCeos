@@ -16,7 +16,7 @@
         <div class="card">
           <img class="card-img-top img-fluid" src="imagenes/card1.jpg" alt="">
         </div>
-        <div class="card card-inverse card-info p-3 text-center">
+        <div class="card card-inverse card-info p-3 text-center hvr-pop">
           <blockquote class="card-blockquote">
             <h5>Seguridad</h5>
             <footer>
@@ -26,7 +26,7 @@
             </footer>
           </blockquote>
         </div>
-        <div class="card card-inverse card-info p-3 text-center">
+        <div class="card card-inverse card-info p-3 text-center hvr-pop">
           <blockquote class="card-blockquote">
             <h5>Pasión</h5>
             <footer>
@@ -36,7 +36,7 @@
             </footer>
           </blockquote>
         </div>
-        <div class="card card-inverse card-info p-3 text-center">
+        <div class="card card-inverse card-info p-3 text-center hvr-pop">
           <blockquote class="card-blockquote">
             <h5>Responsabilidad</h5>
             <footer>
@@ -46,7 +46,7 @@
             </footer>
           </blockquote>
         </div>
-        <div class="card card-inverse card-info p-3 text-center">
+        <div class="card card-inverse card-info p-3 text-center hvr-pop">
           <blockquote class="card-blockquote">
             <h5>Excelencia</h5>
             <footer>
@@ -56,7 +56,7 @@
             </footer>
           </blockquote>
         </div>
-        <div class="card card-inverse card-info p-3 text-center">
+        <div class="card card-inverse card-info p-3 text-center hvr-pop">
           <blockquote class="card-blockquote">
             <h5>Honradez</h5>
             <footer>
