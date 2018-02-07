@@ -1,7 +1,7 @@
 <?php $page='contacto';
       require ('header.php');
 ?>
-    <section class="container" style="background-color: red">
+    <section class="container" style="background-color: teal">
       <div class="row">
         <div class="col-md-7">
           <div id="map" class="container map mt-4"></div>

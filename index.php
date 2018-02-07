@@ -13,8 +13,8 @@
               <span style="font-weight:bold;"> Taxi Directo</span>
             </span>
             <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+          <a class="btn btn-primary" href="servicios.php" role="button">Ver más</a>
           </div>
-          <a class="btn btn-primary" href="servicios.html" role="button">Ver más</a>
         </div>
         <div class="card">
           <div class="card-block">
