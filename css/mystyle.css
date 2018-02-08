@@ -5,10 +5,6 @@ body {
     background-size: cover;
 }
 
-section{
-  background-color: white;
-}
-
 .container{
   width: : 500px;
 }
@@ -18,6 +14,7 @@ section{
   height: 50vh;
   background-size: cover;
   background-position: center;
+  margin-top: 55px;
 }
 
 .sliderB{
@@ -25,6 +22,7 @@ section{
   height: 20vh;
   background-size: cover;
   background-position: center;
+  margin-top: 55px;
 }
 
 .footer {
