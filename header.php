@@ -7,16 +7,12 @@
     <script src="js/jquery-3.3.1.min.js"></script>
     <link href="css/animate.css" rel="stylesheet">
     <link href="css/hover-min.css" rel="stylesheet">
-<<<<<<< HEAD
     <link rel="stylesheet" href="css/bootstrap.min.css">
-=======
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
->>>>>>> 8133425d8263bec19e16b5a6f75511ccf64e5cc8
     <link rel="stylesheet" href="css/mystyle.css">
   </head>
   <body>
     <section class="container-fluid slider d-flex justify-content-center align-items-center"></section>
-      <nav class="navbar navbar-toggleable-sm navbar-inverse sticky-top" id="menu" >
+      <nav class="navbar navbar-toggleable-sm navbar-inverse fixed-top" id="menu" >
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -39,7 +35,7 @@
 
       <script>
         $(window).scroll(function() {
-          if ($("#menu").offset().top > 400) {
+          if ($("#menu").offset().top > 50) {
               $("#menu").addClass("bg-inverse");
           } else {
               $("#menu").removeClass("bg-inverse");
