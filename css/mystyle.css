@@ -1,7 +1,15 @@
 body {
     margin: 0;
     padding: 0;
-    background: 
+    background-image: url("../imagenes/fon.jpg");
+}
+
+section{
+  background-color: white;
+}
+
+.container{
+  width: : 500px;
 }
 
 .slider{
