@@ -1,7 +1,8 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url("../imagenes/fon.jpg");
+    background-image: url("../imagenes/fond.jpg");
+    background-size: cover;
 }
 
 section{
