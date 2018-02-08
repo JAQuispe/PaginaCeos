@@ -5,6 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Ceos</title>
     <script src="js/jquery-3.3.1.min.js"></script>
+    <script src="js/jquery.lettering.js"></script>
+    <script src="js/jquery.fittext.js"></script>
+    <script src="js/jquery.textillate.js"></script>
     <link href="css/animate.css" rel="stylesheet">
     <link href="css/hover-min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
