@@ -4,9 +4,11 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Ceos</title>
+    <script src="js/jquery-3.3.1.min.js"></script>
+    <link href="css/animate.css" rel="stylesheet">
     <link href="css/hover-min.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/mystyle.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/mystyle.css">
   </head>
   <body>
     <section class="container-fluid slider d-flex justify-content-center align-items-center"></section>
@@ -33,7 +35,7 @@
 
       <script>
         $(window).scroll(function() {
-          if ($("#menu").offset().top > 15) {
+          if ($("#menu").offset().top > 400) {
               $("#menu").addClass("bg-inverse");
           } else {
               $("#menu").removeClass("bg-inverse");
