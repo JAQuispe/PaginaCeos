@@ -4,13 +4,8 @@
      <section class="container" style="background-color: teal">
       <div class="media">
   <div class="media-body"><br>
-<<<<<<< HEAD
   <img src="imagenes/imagen1.jpg" class="rounded-circle float-right mr-5" width="208" height="208" alt="Generic placeholder image">
     <div class="ml-5"><h3 class="mt-0 mb-1">Ventajas</h3><br>
-=======
-  <img src="imagenes/imagen1.jpg" class="rounded-circle float-right mr-5 hvr-bounce-in" width="208" height="208" alt="Generic placeholder image">
-    <div class="ml-5 "><h3 class="mt-0 mb-1">Ventajas</h3><br>
->>>>>>> 8133425d8263bec19e16b5a6f75511ccf64e5cc8
      1. Mayor número de servicios <br>
 2. Mayor seguridad por estar siempre monitoreados por la central<br>
 3. Mapa cartográfico en el taxi para ubicación de direcciones.<br>
