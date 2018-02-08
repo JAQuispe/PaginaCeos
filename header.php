@@ -10,11 +10,8 @@
     <script src="js/jquery.textillate.js"></script>
     <link href="css/animate.css" rel="stylesheet">
     <link href="css/hover-min.css" rel="stylesheet">
-<<<<<<< HEAD
     <link rel="stylesheet" href="css/bootstrap.min.css">
-=======
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
->>>>>>> 8133425d8263bec19e16b5a6f75511ccf64e5cc8
     <link rel="stylesheet" href="css/mystyle.css">
   </head>
   <body>
