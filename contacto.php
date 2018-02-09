@@ -26,18 +26,6 @@
       <br>
     </section>
 
-<h1 class="tlt">
-  <ul class="texts">
-    <li data-out-effect="fadeOut" data-out-shuffle="true">Some Title</li>
-    <li data-in-effect="fadeIn">Another Title</li>
-  </ul>
-</h1>
-<script type="text/javascript">
-  $(function () {
-  $('.tlt').textillate();
-})
-</script>
-
     <script>
     function myMap() {
       var mapOptions = {
