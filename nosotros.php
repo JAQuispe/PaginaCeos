@@ -1,5 +1,5 @@
 <?php $page='nosotros';
-      require ('header.php');
+      require ('headerGeneral.php');
 ?>
     <section class="container">
       <br />

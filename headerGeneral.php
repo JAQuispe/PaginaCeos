@@ -15,7 +15,7 @@
   </head>
   <body>
     <section class="container-fluid <?php if($page=='inicio') {echo 'slider';} else {echo 'sliderB';}?> d-flex justify-content-center align-items-center"></section>
-      <nav class="navbar navbar-toggleable-sm navbar-inverse fixed-top" id="menu">
+      <nav class="navbar navbar-toggleable-sm navbar-inverse fixed-top" id="menuB">
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -39,10 +39,10 @@
       <!--Slider-->
       <script>
         $(window).scroll(function() {
-          if ($("#menu").offset().top > 350) {
-              $("#menu").addClass("bg-inverse");
+          if ($("#menuB").offset().top > 150) {
+              $("#menuB").addClass("bg-inverse");
           } else {
-              $("#menu").removeClass("bg-inverse");
+              $("#menuB").removeClass("bg-inverse");
           }
         });
       </script>

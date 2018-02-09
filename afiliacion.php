@@ -1,5 +1,5 @@
 <?php $page='afiliacion';
-      require ('header.php');
+      require ('headerGeneral.php');
 ?>
      <section class="container" style="background-color:#FFFAFA">
       <div class="media">

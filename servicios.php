@@ -1,5 +1,5 @@
 <?php $page='servicios';
-      require ('header.php');
+      require ('headerGeneral.php');
 ?>
 
     <section class="container mt-5 mb-5">
