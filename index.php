@@ -1,5 +1,4 @@
-<?php $page='inicio';
-      require ('header.php');
+<?php $page='inicio' ;require ('header.php');
 ?>
 
     <section class="container mt-5 mb-5">
@@ -30,6 +29,8 @@
           </div>
         </div>
       </div>
+
     </section>
 
-    <?php require ('footer.php'); ?>
+
+<?php require ('footer.php'); ?>
