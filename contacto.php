@@ -1,5 +1,5 @@
 <?php $page='contacto';
-      require ('header.php');
+      require ('headerGeneral.php');
 ?>
     <section class="container" style="background-color: teal">
       <div class="row">

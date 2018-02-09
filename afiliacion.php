@@ -1,7 +1,7 @@
 <?php $page='afiliacion';
-      require ('header.php');
+      require ('headerGeneral.php');
 ?>
-     <section class="container" style="background-color: teal">
+     <section class="container" style="background-color:#FFFAFA">
       <div class="media">
   <div class="media-body"><br>
   <img src="imagenes/imagen1.jpg" class="rounded-circle float-right mr-5 hvr-bounce-in" width="208" height="208" alt="Generic placeholder image">

@@ -28,9 +28,11 @@ body {
 .footer {
   bottom: 0;
   width: 100%;
+  height: 1%;
   line-height: 100px;
   background-color: #2a2c2f;
-  text-align: center;
+
+
 }
 
 th{
@@ -50,4 +52,5 @@ nav{
   height:500px;
 }
 
-/*#005a65*/
+
+/*#005a65*
