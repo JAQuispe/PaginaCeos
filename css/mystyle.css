@@ -1,14 +1,20 @@
 body {
     margin: 0;
     padding: 0;
-    background: 
+    background-image: url("../imagenes/fond.jpg");
+    background-size: cover;
+}
+
+.container{
+  width: : 500px;
 }
 
 .slider{
-  background: url("../imagenes/taxi.jpg");
+  background: url("../imagenes/misti.jpg");
   height: 50vh;
   background-size: cover;
   background-position: center;
+  margin-top: 55px;
 }
 
 .sliderB{
@@ -16,6 +22,7 @@ body {
   height: 20vh;
   background-size: cover;
   background-position: center;
+  margin-top: 55px;
 }
 
 .footer {
@@ -35,7 +42,7 @@ p{
 }
 
 nav{
-    background-color: #4682B4;
+    background-color: #4682b4;
 }
 
 #map {
