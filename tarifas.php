@@ -1,8 +1,8 @@
 <?php $page='tarifas';
-      require ('header.php');
+      require ('headerGeneral.php');
 ?>
 
- 
+
     <section class="container mt-5 mb-5">
 
       <ul class="nav " data-toggle="tab" role="tablist">
@@ -190,7 +190,7 @@
                   <td>Atalaya</td>
                   <td>S/10.00</td>
                 </tr>
-              
+
                 <tr>
                   <td>Rinconada Cancha</td>
                   <td>S/ 9.00</td>
@@ -215,7 +215,7 @@
                   <td>Los Olivos</td>
                   <td>S/ 14.00</td>
                 </tr>
-               
+
               </tbody>
             </table>
           </div>
@@ -337,7 +337,7 @@
                   <td>Zoologico </td>
                   <td>S/10.00</td>
                 </tr>
-                
+
 
 
               </tbody>
@@ -416,7 +416,7 @@
                   <td>Comisaria </td>
                   <td>S/12.00</td>
                 </tr>
-              
+
               </tbody>
             </table>
           </div>
@@ -451,7 +451,7 @@
                   <td>Santuario de Chapi(Ida y Vuelta)</td>
                   <td>S/130.00</td>
                 </tr>
-              
+
               </tbody>
             </table>
           </div>
@@ -492,7 +492,7 @@
                   <td>Mollebaya</td>
                   <td>S/ 15.00</td>
                 </tr>
-                 
+
               </tbody>
             </table>
           </div>
@@ -713,7 +713,7 @@
                   <td>Tahuaycani</td>
                   <td>S/ 10.00</td>
                 </tr>
-               
+
               </tbody>
             </table>
           </div>
@@ -768,7 +768,7 @@
                   <td>Mina Cerro Verde</td>
                   <td>S/ 50.00</td>
                 </tr>
-                
+
               </tbody>
             </table>
           </div>
@@ -816,7 +816,7 @@
                   <td>Recoleta</td>
                   <td>S/ 7.00</td>
                 </tr>
-                
+
               </tbody>
             </table>
           </div>
@@ -888,7 +888,7 @@
                   <td>Via 54</td>
                   <td>S/ 25.00</td>
                 </tr>
-               
+
               </tbody>
             </table>
           </div>
@@ -927,7 +927,7 @@
                   <td>Estadio Juan Velasco</td>
                   <td>S/ 10.00</td>
                 </tr>
-                
+
               </tbody>
             </table>
       </div>
@@ -1022,7 +1022,7 @@
                   <td>Yura</td>
                   <td>S/ 50.00</td>
                 </tr>
-               
+
               </tbody>
             </table>
           </div>
@@ -1169,7 +1169,7 @@
                   <td>PP.JJ Independencia Colegio Beethoven</td>
                   <td>S/ 13.00</td>
                 </tr>
-                
+
               </tbody>
             </table>
           </div>
