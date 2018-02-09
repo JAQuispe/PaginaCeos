@@ -37,6 +37,18 @@
       </nav>
 
       <!--Slider-->
+
+      <script>
+        $(window).scroll(function() {
+          if ($("#menu").offset().top > 335) {
+              $("#menu").addClass("bg-inverse");
+          } else {
+              $("#menu").removeClass("bg-inverse");
+          }
+        });
+      </script>
+
+<!--
       <script>
         $(window).scroll(function() {
           if ($("#menuB").offset().top > 150) {
@@ -45,4 +57,4 @@
               $("#menuB").removeClass("bg-inverse");
           }
         });
-      </script>
+      </script>-->
