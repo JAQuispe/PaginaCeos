@@ -3,6 +3,7 @@ body {
     padding: 0;
     background-image: url("../imagenes/fond.jpg");
     background-size: cover;
+    font-family: 'Quicksand', sans-serif;
 }
 
 .container{
@@ -25,15 +26,15 @@ body {
   margin-top: 55px;
 }
 
+.bodies{
+  background-color: #ffffff;
+}
+
 .footer{
   width: 100%;
   height: 60px;
   line-height: 60px;
   background-color: #292b2c;S
-}
-
-span{
-  color: #ffffff;
 }
 
 th{

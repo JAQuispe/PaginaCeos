@@ -1,19 +1,28 @@
 <?php $page='nosotros';
       require ('headerGeneral.php');
 ?>
-    <section class="container">
+    <section class="container bodies">
       <br />
-      <section>
-        <h3>Nosotros</h3>
-        <p>Somos una empresa que presta servicios de despacho automatizado de taxis mediante la aplicación taxitel y una plataforma de tecnología satelital, con conductores uniformados y capacitados, flota de autos modernos, tenemos 15 años de experiencia en el mercado.</p>
+      <h1 class="text-center">Nosotros</h1>
+      <section class="ml-5 mr-5">
+        <p>
+          Somos una empresa nacida en Arequipa dedicada a brindar el servicio de taxi desde el 2005,
+          contamos con una gran flota de unidades afiliadas a nuestra empresa que cuentan con todos
+          los permisos correspondientes.
+          Estamos comprometidos con su seguridad y el bienestar de la ciudad de Arequipa es por eso
+          que somos parte del programa "Taxi Cívico" capacitandonos y fortaleciendo la seguridad ciudadana
+          junto a la Policia Nacional del Perú.
+        </p>
         <h4>Misión</h4>
         <p>Ser la empresa más confiable del medio, manteniendo el liderazgo en cada mercado que participemos, a través de la buena calidad de servicios, con tecnología moderna,  creando oportunidades de desarrollo personal o carrera de nuestros integrantes  y obtener rendimientos significativos para nuestros conductores, afiliados y accionistas además de estar comprometidos con el cuidado del medio ambiente.</p>
         <h4>Visión</h4>
         <p>Que nuestros clientes y consumidores nos elijan siempre como la primera opción, “ser el líder”.</p>
       </section>
 
-      <hr />
-      <section>
+
+      <section class="ml-5 mr-5">
+        <br />
+        <hr />
         <div class="card-columns">
           <div class="card">
             <img class="card-img-top img-fluid" src="imagenes/card1.jpg" alt="">

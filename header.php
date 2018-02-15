@@ -10,6 +10,7 @@
     <script src="js/jquery.textillate.js"></script>
     <link href="css/animate.css" rel="stylesheet">
     <link href="css/hover-min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lobster+Two|Quicksand|Teko" rel="stylesheet">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/mystyle.css">
   </head>
