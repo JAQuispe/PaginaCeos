@@ -38,8 +38,12 @@
       <nav class="navbar navbar-toggleable-sm navbar-inverse fixed-top" id="<?php if($page=='inicio') {echo 'menu';} else {echo 'menuB';}?>">
 =======
     <section class="container-fluid <?php if($page=='inicio') {echo 'slider';} else {echo 'sliderB';}?> d-flex justify-content-center align-items-center"></section>
+<<<<<<< HEAD
       <nav class="navbar navbar-toggleable-sm navbar-inverse fixed-top" id="menu">
 >>>>>>> 149b6e03d3f795a13b864b36053647dddeb5c0fc
+=======
+      <nav class="navbar navbar-toggleable-sm navbar-inverse fixed-top" id="<?php if($page=='inicio') {echo 'menu';} else {echo 'menuB';}?>">
+>>>>>>> parent of 3cb2a03... Segundo header.
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -61,12 +65,24 @@
       </nav>
 
       <!--Slider-->
+
       <script>
         $(window).scroll(function() {
-          if ($("#menu").offset().top > 350) {
+          if ($("#menu").offset().top > 335) {
               $("#menu").addClass("bg-inverse");
           } else {
               $("#menu").removeClass("bg-inverse");
           }
         });
       </script>
+
+<!--
+      <script>
+        $(window).scroll(function() {
+          if ($("#menuB").offset().top > 150) {
+              $("#menuB").addClass("bg-inverse");
+          } else {
+              $("#menuB").removeClass("bg-inverse");
+          }
+        });
+      </script>-->
