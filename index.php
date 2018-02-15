@@ -2,7 +2,7 @@
       require ('header.php');
 ?>
 
-    <section class="container mt-5 mb-5">
+    <section class="container mt-3 mb-3">
       <div class="card-deck">
         <div class="card">
           <img class="card-img-top img-fluid hvr-grow" src="imagenes/portada.jpg" alt="Card image cap">
@@ -30,6 +30,18 @@
           </div>
         </div>
       </div>
+
+      <div class="card mt-4">
+          <h2 class="block-title text-center" style="font-weight:bold;">Tarifario</h2>
+          <div class="card-block">
+            <div>
+              <FONT  SIZE=4 COLOR="teal">Buscamos que tengas la mejor experencia con nuestro servicio. Así que te brindamos el TARIFARIO CEOS para que puedas saber cuàl es la tarifa adecuada para nuetros servicios.</FONT>
+              <div id="next_button" align="right">
+              <a class="btn btn-primary " href="tarifas.php" role="button">VER TARIFARIO</a>
+              </div>
+            </div>
+          </div>
+        </div>
 
     </section>
 

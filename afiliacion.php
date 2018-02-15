@@ -1,7 +1,7 @@
 <?php $page='afiliacion';
       require ('headerGeneral.php');
 ?>
-     <section class="container" style="background-color: teal">
+     <section class="container" style="background-color: white">
       <div class="media">
   <div class="media-body"><br>
   <img src="imagenes/imagen1.jpg" class="rounded-circle float-right mr-5 hvr-bounce-in" width="208" height="208" alt="Generic placeholder image">
@@ -16,30 +16,35 @@
 8. Carreras más seguras<br>
 9. Comunicación por mensajes.<br><br></div>
 
-
-
-  <img src="imagenes/imagen4.png" class="rounded-circle float-right mr-5 hvr-bounce-in" width="208" height="208" alt="Generic placeholder image">
-    <div class="ml-5 "><h3 class="mt-0 mb-1">Requisitos para afiliación de unidades grandes<br></h3><br>
-   1. Antigüedad máxima 8 años<br>
-2. No tener lunas polarizadas<br>
-3. No adornos ni propagandas que no sean autorizadas<br>
-4. Presentación de documentación original y copia de:<br>
-5. Tarjeta de propiedad<br>
-6. SOAT<br>
-7. Control de humos<br>
-8. DNI del propietario<br>
-9. Recibo agua o luz (uno de los últimos 3 meses)<br><br></div>
-
+<img src="imagenes/imagen4.png" class="rounded-circle float-right mr-5 hvr-bounce-in" width="208" height="208" alt="Generic placeholder image">
+    <div class="ml-5 "><h3 class="mt-0 mb-1">Requisitos de Afiliación<br></h3><br>
+1. Copia de DNI de propietario/conductor<br>
+2. Copia de brevete<br>
+3. Copia de tarjeta de propiedad<br>
+4. Copia de SOAT<br>
+5. Copia de setare<br>
+6. Copia de revión técnica<br>
+7. Pago por inscripción<br>
+8. Pago mensual<br>
+9. Antecedentes policiales<br>
+10. Fotos propietario/coductor<br><br></div>
 
 <img src="imagenes/imagen1.jpg" class="rounded-circle float-right mr-5 hvr-bounce-in" width="208" height="208" alt="Generic placeholder image">
-<div class="ml-5 "><h3 class="mt-0 mb-1">Requisitos para ingreso de conductores<br></h3>
- 1. Figurar entre los 25 a 55 años de edad.<br>
-2. Tener experiencia en el servicio de taxi como mínimo 2 años con documentación.<br>
-3. Fotocopia de licencia de conducir categoría AII o AIII.<br>
-4. Fotocopia de DNI.<br>
-5. Carta de garantía legalizada.<br>
-6. Certificado de antecedentes penales y judiciales<br>
-7. Certificado domiciliario<br><br></div>
+    <div class="ml-5"><h3 class="mt-0 mb-1">Condiciones de Afiliado</h3><br>
+     1. Estan obligados a cumplir con sus cuotas mensuales.<br>
+2. El pago se realizara la primera semana del mes.<br>
+3. Cumplir y respetar el Reglamento Interno.<br>
+4. Cuidar el Equipo entregado por la Empresa.<br><br><br><br></div>
+
+<img src="imagenes/imagen4.png" class="rounded-circle float-right mr-5 hvr-bounce-in" width="208" height="208" alt="Generic placeholder image">
+    <div class="ml-5 "><h3 class="mt-0 mb-1">Obligaciones de el afiliado<br></h3><br>
+1. Obligados a cumplir con sus cuotas mensuales.<br>
+2. Cumplir y respetar el Reglamento Interno.<br>
+3. Están obligados a cuidar el casquete.<br>
+4. Comunicar a La EMPRESA todo cambio que se realice a la unidad vehicular.<br>
+5. Se comprometen a velar por la buena marcha de LA EMPRESA.<br><br><br><br></div>
+
+
   </div>
 </div>
     </section>
