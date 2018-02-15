@@ -10,13 +10,13 @@
     <script src="js/jquery.textillate.js"></script>
     <link href="css/animate.css" rel="stylesheet">
     <link href="css/hover-min.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Lobster+Two|Quicksand|Teko" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Acme|Lobster+Two|Quicksand|Teko|Signika|Poiret+One" rel="stylesheet">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/mystyle.css">
   </head>
   <body>
     <section class="container-fluid <?php if($page=='inicio') {echo 'slider';} else {echo 'sliderB';}?> d-flex justify-content-center align-items-center">
-      
+
     <h1 class="tlt">
       <ul class="texts">
         <li data-in-effect="flash" data-in-shuffle="true" data-out-effect="fadeIn" data-out-reverse="true">Excelencia</li>
