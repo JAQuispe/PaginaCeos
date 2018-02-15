@@ -14,7 +14,22 @@
     <link rel="stylesheet" href="css/mystyle.css">
   </head>
   <body>
-    <section class="container-fluid <?php if($page=='inicio') {echo 'slider';} else {echo 'sliderB';}?> d-flex justify-content-center align-items-center"></section>
+    <section class="container-fluid <?php if($page=='inicio') {echo 'slider';} else {echo 'sliderB';}?> d-flex justify-content-center align-items-center">
+      
+    <h1 class="tlt">
+      <ul class="texts">
+        <li data-in-effect="flash" data-in-shuffle="true" data-out-effect="fadeIn" data-out-reverse="true">Excelencia</li>
+        <li data-in-effect="flash" data-in-shuffle="true" data-out-effect="fadeIn" data-out-reverse="true">Honradez</li>
+        <li data-in-effect="flash" data-in-shuffle="true" data-out-effect="fadeIn" data-out-reverse="true">Pasión</li>
+        <li data-in-effect="flash" data-in-shuffle="true" data-out-effect="fadeIn" data-out-reverse="true">Responsabilidad</li>
+        <li data-in-effect="flash" data-in-shuffle="true" data-out-effect="fadeIn" data-out-reverse="true">Seguridad</li>
+      </ul>
+    </h1>
+    <script type="text/javascript">
+      $('.tlt').textillate({loop: true});
+    </script>
+
+    </section>
       <nav class="navbar navbar-toggleable-sm navbar-inverse fixed-top" id="menu">
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
