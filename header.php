@@ -14,8 +14,36 @@
     <link rel="stylesheet" href="css/mystyle.css">
   </head>
   <body>
-    <section class="container-fluid <?php if($page=='inicio') {echo 'slider';} else {echo 'sliderB';}?> d-flex justify-content-center align-items-center"></section>
+<<<<<<< HEAD
+    <section class="container-fluid <?php if($page=='inicio') {echo 'slider';} else {echo 'sliderB';}?> d-flex justify-content-center align-items-center">
+      <h1 class="tlt1">Ceos Tour es </h1>
+      <script type="text/javascript">
+        $(function () {
+          $('.tlt1').textillate();
+        })
+      </script>
+      <h1 class="tlt">
+        <ul class="texts">
+          <li data-out-effect="fadeOut" data-out-shuffle="true">Some Title</li>
+          <li data-in-effect="fadeIn">Another Title</li>
+        </ul>
+      </h1>
+      <script type="text/javascript">
+        $(function () {
+          $('.tlt').textillate({loop:true});
+        })
+      </script>
+
+    </section>
       <nav class="navbar navbar-toggleable-sm navbar-inverse fixed-top" id="<?php if($page=='inicio') {echo 'menu';} else {echo 'menuB';}?>">
+=======
+    <section class="container-fluid <?php if($page=='inicio') {echo 'slider';} else {echo 'sliderB';}?> d-flex justify-content-center align-items-center"></section>
+<<<<<<< HEAD
+      <nav class="navbar navbar-toggleable-sm navbar-inverse fixed-top" id="menu">
+>>>>>>> 149b6e03d3f795a13b864b36053647dddeb5c0fc
+=======
+      <nav class="navbar navbar-toggleable-sm navbar-inverse fixed-top" id="<?php if($page=='inicio') {echo 'menu';} else {echo 'menuB';}?>">
+>>>>>>> parent of 3cb2a03... Segundo header.
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
