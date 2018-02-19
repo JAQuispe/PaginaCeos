@@ -10,13 +10,13 @@
     <script src="js/jquery.textillate.js"></script>
     <link href="css/animate.css" rel="stylesheet">
     <link href="css/hover-min.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300|Pontano+Sans" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300|Pontano+Sans|Lobster" rel="stylesheet">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/mystyle.css">
   </head>
   <body>
     <section class="container-fluid <?php if($page=='inicio') {echo 'slider';} else {echo 'sliderB';}?> d-flex justify-content-center align-items-center">
-      <h1 class="tlt">
+      <h1 class="tlt pinto">
         <ul class="texts">
           <li data-in-effect="flash" data-in-shuffle="true" data-out-effect="fadeIn" data-out-reverse="true">Excelencia</li>
           <li data-in-effect="flash" data-in-shuffle="true" data-out-effect="fadeIn" data-out-reverse="true">Honradez</li>
@@ -31,12 +31,12 @@
     </section>
 
     <nav class="navbar navbar-toggleable-sm navbar-inverse fixed-top" id="menu">
-      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+      <button class="navbar-toggler navbar-toggler-right mt-2" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div>
         <a class="navbar-brand hvr-grow-rotate" href="index.php">
-          Ceos Tours
+          <img src="imagenes/logo.png" width="141" height="51">
         </a>
       </div>
       <div class="collapse navbar-collapse" id="navbarNavAltMarkup">

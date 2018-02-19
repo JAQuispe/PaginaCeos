@@ -17,12 +17,12 @@
   <body>
     <section class="container-fluid <?php if($page=='inicio') {echo 'slider';} else {echo 'sliderB';}?> d-flex justify-content-center align-items-center"></section>
       <nav class="navbar navbar-toggleable-sm navbar-inverse fixed-top" id="menuB">
-        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler navbar-toggler-right mt-2" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div>
           <a class="navbar-brand hvr-grow-rotate" href="index.php">
-            Ceos Tours
+            <img src="imagenes/logo.png" width="141" height="51">
           </a>
         </div>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
