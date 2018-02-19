@@ -1,15 +1,9 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url("../imagenes/fond.jpg");
-    background-size: cover;
-    /*font-family: 'Quicksand', sans-serif;*/
-    font-family: 'Signika', sans-serif;
-    /*font-family: 'Poiret One', cursive;*/
-}
-
-.container{
-  width: : 500px;
+    background-image: url("../imagenes/2270.jpg");
+    /*background-size: cover;*/
+    font-family: 'Pontano Sans', sans-serif;
 }
 
 .slider{
@@ -30,6 +24,7 @@ body {
 
 .bodies{
   background-color: #ffffff;
+
 }
 
 .footer{
@@ -45,16 +40,18 @@ th{
 
 p{
   text-align: justify;
+  /*font-family: 'Open Sans', sans-serif;*/
+}
+
+h1, h3{
+  font-family: 'Open Sans', sans-serif;
 }
 
 nav{
-    background-color: #4682b4;
+    background-color: #5F9EA0;
 }
 
 #map {
   width:auto;
   height:500px;
 }
-
-
-/*#005a65*

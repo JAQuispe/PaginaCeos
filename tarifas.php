@@ -3,7 +3,7 @@
 ?>
 
 
-    <section class="container mt-5 mb-5">
+    <section class="container bodies">
 
       <ul class="nav " data-toggle="tab" role="tablist">
         <li class="nav-item">

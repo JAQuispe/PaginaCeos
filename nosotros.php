@@ -2,9 +2,10 @@
       require ('headerGeneral.php');
 ?>
     <section class="container bodies">
-      <br />
+      <br>
       <h1 class="text-center">Nosotros</h1>
       <section class="ml-5 mr-5">
+        <hr>
         <p>
           Somos una empresa nacida en Arequipa dedicada a brindar el servicio de taxi desde el 2005,
           contamos con una gran flota de unidades afiliadas a nuestra empresa que cuentan con todos
@@ -13,10 +14,15 @@
           que somos parte del programa "Taxi Cívico" capacitandonos y fortaleciendo la seguridad ciudadana
           junto a la Policia Nacional del Perú.
         </p>
-        <h4>Misión</h4>
-        <p>Ser la empresa más confiable del medio, manteniendo el liderazgo en cada mercado que participemos, a través de la buena calidad de servicios, con tecnología moderna,  creando oportunidades de desarrollo personal o carrera de nuestros integrantes  y obtener rendimientos significativos para nuestros conductores, afiliados y accionistas además de estar comprometidos con el cuidado del medio ambiente.</p>
-        <h4>Visión</h4>
-        <p>Que nuestros clientes y consumidores nos elijan siempre como la primera opción, “ser el líder”.</p>
+        <h3>Misión</h3>
+        <p>
+          Ofrecer el mejor servicio de taxi teniendo siempre presente los valores que desde nuestros
+          inicios han guiado a todos nuestros afiliados.
+          Colaborando de forma continua con la Policia Nacional en busca de mayor seguridad para la
+          poblacion arequipeña.
+        </p>
+        <h3>Visión</h3>
+        <p>Convertirnos en la empresa que preste servicios de taxi lider dentro de la ciudad de Arequipa .</p>
       </section>
 
 
@@ -25,7 +31,7 @@
         <hr />
         <div class="card-columns">
           <div class="card">
-            <img class="card-img-top img-fluid" src="imagenes/card1.jpg" alt="">
+            <img class="card-img-top img-fluid" src="imagenes/card1.jpg">
           </div>
           <div class="card card-inverse card-info p-3 text-center hvr-pop">
             <blockquote class="card-blockquote">
@@ -78,11 +84,11 @@
             </blockquote>
           </div>
           <div class="card">
-            <img class="card-img-top img-fluid" src="imagenes/card3.jpg" alt="">
+            <img class="card-img-top img-fluid" src="imagenes/card3.jpg">
           </div>
         </div>
       </section>
-      <br />
+      <br>
     </section>
 
     <?php require ('footer.php'); ?>
