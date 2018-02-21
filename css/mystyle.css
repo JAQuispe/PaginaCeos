@@ -1,11 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-<<<<<<< HEAD
     background-image: url("../imagenes/fond.jpg");
-=======
-    background-image: url("../imagenes/100MEDIA/fm.jpg");
->>>>>>> 7876e470b165b923cc9d8142374a27af1caff1e9
     background-size: cover;
     font-family: 'Pontano Sans', sans-serif;
     font-size: 16px;
@@ -16,7 +12,7 @@ body {
   height: 50vh;
   background-size: cover;
   background-position: center bottom;
-  margin-top: 55px;
+  margin-top: 75px;
 }
 
 .sliderB{
@@ -24,7 +20,7 @@ body {
   height: 20vh;
   background-size: cover;
   background-position: center bottom;
-  margin-top: 55px;
+  margin-top: 75px;
 }
 
 .bodies{
@@ -53,6 +49,7 @@ h1, h3{
 }
 
 nav{
+  background-color: #9c3334;
 }
 
 .pinto{
