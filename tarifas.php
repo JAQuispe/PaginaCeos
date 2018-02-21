@@ -1169,7 +1169,7 @@
                   <td>PP.JJ Independencia Colegio Beethoven</td>
                   <td>S/ 13.00</td>
                 </tr>
-
+                
               </tbody>
             </table>
           </div>
