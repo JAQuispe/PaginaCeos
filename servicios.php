@@ -26,8 +26,19 @@
             </p>
           </div>
           <div class="col-md-3">
-            <img class="rounded-circle hvr-bounce-in" src="imagenes/aaa.png" >  <!-- la imagen debe estar 200 x 200 px-->
+            <img class="rounded-circle hvr-bounce-in" src="imagenes/aaa.png" height="200px" width="200px" >  <!-- la imagen debe estar 200 x 200 px-->
           </div>
+        </div>
+          <div class="row" >
+        <div class="col-md-3">
+            <img class="rounded-circle hvr-bounce-in" src="imagenes/courier.JPG" height="200px" width="200px" >  <!-- la imagen debe estar 200 x 200 px-->
+          </div>
+          <div class="col-md-9" style="text-align: right">
+            <h4> <center>Courier</center>
+            </h4>
+            <p><center>Entrega y recojo de paquetes o documentos. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio, repellendus nulla modi itaque error similique, odit dolorem, consectetur accusantium delectus magni qui harum! Delectus, sed esse. Placeat quasi, vero sequi.</center></p>
+          </div>
+          
         </div>
 
         <div class="row">
@@ -36,19 +47,11 @@
             <p>Traslados y recojo al aeropuerto a bajos precios</p>
           </div>
           <div class="col-md-3">
-            <img class="rounded-circle hvr-bounce-in" src="imagenes/bbb.png" >  <!-- la imagen debe estar 200 x 200 px-->
+            <img class="rounded-circle hvr-bounce-in" src="imagenes/bbb.png" height="200px" width="200px">  <!-- la imagen debe estar 200 x 200 px-->
           </div>
         </div>
 
-        <div class="row">
-          <div class="col-md-9">
-            <h4>Courier</h4>
-            <p>Entrega y recojo de paquetes o documentos.</p>
-          </div>
-          <div class="col-md-3">
-            <img class="rounded-circle hvr-bounce-in" src="imagenes/ccc.png" >  <!-- la imagen debe estar 200 x 200 px-->
-          </div>
-        </div>
+      
 
         <div class="row">
           <div class="col-md-9">
@@ -61,7 +64,7 @@
             </p>
           </div>
           <div class="col-md-3 ">
-            <img class="rounded-circle hvr-bounce-in" src="imagenes/ccc.png" >  <!-- la imagen debe estar 200 x 200 px-->
+            <img class="rounded-circle hvr-bounce-in" src="imagenes/turismo.JPG" height="200px" width="200px">  <!-- la imagen debe estar 200 x 200 px-->
           </div>
         </div>
 
@@ -71,7 +74,7 @@
             <p>Arreglo floral en la unidad y otros detalles a solicitud con anticipación.</p>
           </div>
           <div class="col-md-3">
-            <img class="rounded-circle hvr-bounce-in" src="imagenes/ccc.png" >  <!-- la imagen debe estar 200 x 200 px-->
+            <img class="rounded-circle hvr-bounce-in" src="imagenes/ccc.png" height="200px" width="200px">  <!-- la imagen debe estar 200 x 200 px-->
           </div>
         </div>
 
@@ -81,7 +84,7 @@
             <p>Traslados a conos, playas, centros campestres, etc.</p>
           </div>
           <div class="col-md-3">
-            <img class="rounded-circle hvr-bounce-in" src="imagenes/ccc.png" >  <!-- la imagen debe estar 200 x 200 px-->
+            <img class="rounded-circle hvr-bounce-in" src="imagenes/ccc.png" height="200px" width="200px" >  <!-- la imagen debe estar 200 x 200 px-->
           </div>
         </div>
       </section>
