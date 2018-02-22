@@ -48,7 +48,8 @@
               <h5>Pasión</h5>
               <footer>
                 <small>
-                  Renovamos nuestra pasión por el trabajo todos los días.
+                  Renovamos nuestra pasión por el trabajo todos los días. para brindar un mejor servicio a todos nuestros pasajeros.<p></p>
+
                 </small>
               </footer>
             </blockquote>
@@ -59,11 +60,12 @@
               <footer>
                 <small>
                   Una persona responsable tiene una actitud de estima y respeto para con su propia persona y aporta esos mismos valores a las tareas en que participa.
+                  <p> </p>
                 </small>
               </footer>
             </blockquote>
           </div>
-          <div class="card card-inverse card-info p-3 text-center hvr-pop">
+         <!-- <div class="card card-inverse card-info p-3 text-center hvr-pop">
             <blockquote class="card-blockquote">
               <h5>Excelencia</h5>
               <footer>
@@ -72,15 +74,15 @@
                 </small>
               </footer>
             </blockquote>
-          </div>
+          </div>-->
           <div class="card card-inverse card-info p-3 text-center hvr-pop">
             <blockquote class="card-blockquote">
               <h5>Honradez</h5>
               <footer>
                 <small>
-                  Aquel hombre que pierde la honra por el negocio, pierde el negocio y la honra.
-                </small>
-              </footer>
+                  Aquel hombre que pierde la honra por el negocio, pierde el negocio y la honra                 </small>
+
+                                </footer>
             </blockquote>
           </div>
           <div class="card">
