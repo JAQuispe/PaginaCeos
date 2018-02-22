@@ -9,18 +9,16 @@ body {
 
 .slider{
   background: url("../imagenes/100MEDIA/DSC00253.jpg");
-  height: 50vh;
+  height: 65vh;
   background-size: cover;
   background-position: center bottom;
-  margin-top: 75px;
 }
 
 .sliderB{
   background: url("../imagenes/100MEDIA/DSC00429.jpg");
-  height: 20vh;
+  height: 35vh;
   background-size: cover;
   background-position: center bottom;
-  margin-top: 75px;
 }
 
 .bodies{
@@ -35,13 +33,18 @@ body {
   background-color: #292b2c;
 }
 
+.opaque-navbar {
+    background-color: rgba(0,0,0,0.5);
+  /* Transparent = rgba(0,0,0,0) / Translucent = (0,0,0,0.5)  */
+    border-bottom: 0px;
+}
+
 th{
   text-align: center;
 }
 
 p{
   text-align: justify;
-  /*font-family: 'Open Sans', sans-serif;*/
 }
 
 h1, h3{
@@ -51,6 +54,7 @@ h1, h3{
 nav{
 
   background-color: #9c3334;
+  transition: background-color .5s ease 0s;
 }
 
 .pinto{

@@ -54,10 +54,10 @@
     <!--Slider-->
     <script>
       $(window).scroll(function() {
-        if ($("#menu").offset().top > 350) {
-            $("#menu").addClass("bg-inverse");
+        if ($("#menu").offset().top > 10) {
+            $("#menu").addClass("opaque-navbar");
         } else {
-            $("#menu").removeClass("bg-inverse");
+            $("#menu").removeClass("opaque-navbar");
         }
       });
     </script>
