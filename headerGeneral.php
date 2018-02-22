@@ -40,10 +40,10 @@
       <!--Slider-->
       <script>
         $(window).scroll(function() {
-          if ($("#menuB").offset().top > 150) {
-              $("#menuB").addClass("bg-inverse");
+          if ($("#menuB").offset().top > 10) {
+              $("#menuB").addClass("opaque-navbar");
           } else {
-              $("#menuB").removeClass("bg-inverse");
+              $("#menuB").removeClass("opaque-navbar");
           }
         });
       </script>
