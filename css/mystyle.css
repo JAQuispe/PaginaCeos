@@ -52,6 +52,7 @@ h1, h3{
 }
 
 nav{
+
   background-color: #9c3334;
   transition: background-color .5s ease 0s;
 }
