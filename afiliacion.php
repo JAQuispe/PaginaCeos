@@ -17,9 +17,10 @@
                <li>Convenios empresariales de transporte con vales.</li>
                <li>Paraderos autorizados en centros comerciales y otros.</li>
                <li>Trabajo más tranquilo y silencioso.</li>
-               
-               
-               <li>Y muchas más</li>
+               <div>
+                 <br>
+                 Y mucho más
+               </div>
              </ul>
            </div>
 
@@ -63,6 +64,10 @@
                <li>El pago se realizara la primera semana del mes.</li>
                <li>Cumplir y respetar el Reglamento Interno.</li>
                <li>Cuidar el Equipo entregado por la Empresa.</li>
+               <div>
+                 <br>
+                 Y mucho más
+               </div>
              </ul>
            </div>
 
@@ -70,7 +75,7 @@
            <div class="col-md-2">
              <img src="imagenes/afiliacion3.JPG" class="rounded-circle float-right mr-5 hvr-bounce-in" width="200" height="200" alt="Generic placeholder image">
            </div>
-         </div>
+         </div><br>
 
          <div class="row">
            <div class="col-md-9">

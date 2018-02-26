@@ -28,10 +28,7 @@
           <div class="col-md-9" style="text-align: right">
             <h4><center>Courier</center></h4>
             <p>
-              Entrega y recojo de paquetes o documentos. Lorem ipsum dolor sit amet,
-              consectetur adipisicing elit. Optio, repellendus nulla modi itaque error
-              similique, odit dolorem, consectetur accusantium delectus magni qui harum!
-              Delectus, sed esse. Placeat quasi, vero sequi.
+             Entrega y recojo de paquetes o documentos. Otorgar a los clientes el servicio de entrega de productos en el mismo día. Para  lograr esto afiliamos a personas que puedan encargarse del delivery de los paquetes.
             </p>
           </div>
         </div>
@@ -40,10 +37,7 @@
           <div class="col-md-9" >
             <h4><center>Servicios al aeropuerto</center></h4>
             <p>
-              Traslados y recojo al aeropuerto a bajos precios Lorem ipsum dolor sit
-              amet, consectetur adipisicing elit. Recusandae, porro aperiam quae incidunt
-              eum numquam repellendus autem. Magnam, quo neque suscipit quia. Perspiciatis
-              tempora totam, fugit minus nihil delectus quidem.
+              Traslados y recojo al aeropuerto. Proporcionar un servicio de transporte turístico de alta calidad para sus clientes en un nivel de precio razonable. Aspiramos a ganar confianza de nuestros clientes con cortesía, servicio personalizado y de alto nivel en taxi.
             </p>
           </div>
           <div class="col-md-3">
@@ -58,17 +52,15 @@
           <div class="col-md-9 " style="text-align: right">
             <h4><center >City Tour </center></h4>
             <p>
-              Iglesia de la compañía, Mirador de Yanahuara, Monasterio de Santa
-              Catalina, Plaza de Armas, Mirador de Sachaca, Mansión del fundador,
-              etc.
-              También realizamos Tour a Cañón del Colca.
+              El mirador de Carmen Alto, Iglesia de la compañía, Mirador de Yanahuara, Monasterio de Santa Catalina, Plaza de Armas, Mirador de Sachaca, Mansión del fundador, etc.
+              También realizamos Tour a Cañón del Colca. 
             </p>
           </div>
         </div>
         <div class="row">
           <div class="col-md-9">
-            <h4><center>Matrimonios  </center>  </h4>
-            <p><center>Arreglo floral en la unidad y otros detalles a solicitud con anticipación.</center></p>
+            <h4><center>Matrimonios </center>  </h4>
+            <p><center>Si contratáis los servicios de Taxi tendréis arreglo floral en la unidad y otros detalles a solicitud con anticipación. Tambien la seguridad de llegar puntuales e impecables a la celebración, tanto vosotros como vuestros invitados. La organización trabaja con un equipo de conductores profesionales garantizando una atención personalizada y todas las comodidades en el traslado.</center></p>
           </div>
           <div class="col-md-3">
             <img class="rounded-circle hvr-bounce-in" src="imagenes/matrimonio.JPG" height="200px" width="200px">  <!-- la imagen debe estar 200 x 200 px-->

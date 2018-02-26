@@ -13,9 +13,9 @@
             <div class="card-block">
               <h4 class="card-title">NUESTROS SERVICIOS</h4>
               <span style="line-height:1.4em;">
-                <span style="font-weight:bold;"> Taxi Directo</span>
+                <span style="font-weight:bold;"> Servicios al aeropuerto </span>
               </span>
-              <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p class="card-text">Traslados y recojo al aeropuerto. Proporcionar un servicio de transporte turístico de alta calidad para sus clientes en un nivel de precio razonable. Aspiramos a ganar confianza de nuestros clientes con cortesía, servicio personalizado y de alto nivel en taxi.</p>
             <a class="btn btn-primary" href="servicios.php" role="button">Ver más</a>
             </div>
           </div>
