@@ -8,24 +8,29 @@
        <section class="ml-5 mr-5">
          <hr>
          <div class="row">
-           <div class="col-md-10">
+           <div class="col-md-9">
              <h3>Ventajas</h3>
              <ul>
-               <li>Mayor múmero de servicios.</li>
+               <li>Mayor número de servicios.</li>
                <li>Mayor seguridad por estar siempre monitoreados por la central.</li>
                <li>Mapa cartográfico en el taxi para ubicación de direcciones.</li>
                <li>Convenios empresariales de transporte con vales.</li>
                <li>Paraderos autorizados en centros comerciales y otros.</li>
                <li>Trabajo más tranquilo y silencioso.</li>
+               
+               
+               <li>Y muchas más</li>
              </ul>
            </div>
+
+          <div class="col-md-1"></div>
            <div class="col-md-2">
-             <img src="imagenes/imagen1.jpg" class="rounded-circle float-right mr-5 hvr-bounce-in" width="208" height="208" alt="Generic placeholder image">
+            <img  src="imagenes/afiliacion1.jpg" class="rounded-circle float-right mr-5 hvr-bounce-in" width="200" height="200" alt="Generic placeholder image">
            </div>
          </div>
 
          <div class="row">
-           <div class="col-md-10">
+           <div class="col-md-9">
              <h3>Requisitos de Afiliación</h3>
              <ul>
                <li>Copia de DNI de propietario/conductor.</li>
@@ -39,13 +44,19 @@
                <li>Fotos propietario/coductor.</li>
              </ul>
            </div>
+
+          <div class="col-md-1"></div>
            <div class="col-md-2">
-             <img src="imagenes/imagen4.png" class="rounded-circle float-right mr-5 hvr-bounce-in" width="208" height="208" alt="Generic placeholder image">
+             <img src="imagenes/afiliacion2.jpg" class="rounded-circle float-right mr-5 hvr-bounce-in" width="200" height="200" alt="Generic placeholder image">
            </div>
          </div>
 
+          <div class="row">
+            
+          <div class="col-md-1"></div>
+          </div>
          <div class="row">
-           <div class="col-md-10">
+           <div class="col-md-9">
              <h3>Condiciones de Afiliado</h3>
              <ul>
                <li>Estan obligados a cumplir con sus cuotas mensuales.</li>
@@ -54,13 +65,15 @@
                <li>Cuidar el Equipo entregado por la Empresa.</li>
              </ul>
            </div>
+
+          <div class="col-md-1"></div>
            <div class="col-md-2">
-             <img src="imagenes/imagen1.jpg" class="rounded-circle float-right mr-5 hvr-bounce-in" width="208" height="208" alt="Generic placeholder image">
+             <img src="imagenes/afiliacion3.JPG" class="rounded-circle float-right mr-5 hvr-bounce-in" width="200" height="200" alt="Generic placeholder image">
            </div>
          </div>
 
          <div class="row">
-           <div class="col-md-10">
+           <div class="col-md-9">
              <h3>Obligaciones del afiliado</h3>
              <ul>
                <li>Obligados a cumplir con sus cuotas mensuales.</li>
@@ -70,8 +83,10 @@
                <li>Se comprometen a velar por la buena marcha de LA EMPRESA.</li>
              </ul>
            </div>
+
+          <div class="col-md-1"></div>
            <div class="col-md-2">
-             <img src="imagenes/imagen4.png" class="rounded-circle float-right mr-5 hvr-bounce-in" width="208" height="208" alt="Generic placeholder image">
+             <img src="imagenes/afiliacion4.JPG" class="rounded-circle float-right mr-5 hvr-bounce-in" width="200" height="200" alt="Generic placeholder image">
            </div>
          </div>
        </section>
