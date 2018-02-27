@@ -40,7 +40,7 @@
       <!--Slider-->
       <script>
         $(window).scroll(function() {
-          if ($("#menuB").offset().top > 10) {
+          if ($("#menuB").offset().top > 200) {
               $("#menuB").addClass("opaque-navbar");
           } else {
               $("#menuB").removeClass("opaque-navbar");
