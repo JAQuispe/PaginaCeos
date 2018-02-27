@@ -1,154 +1,144 @@
 <?php $page='tarifas';
       require ('headerGeneral.php');
 ?>
-
+    <script type="text/javascript">
+      function Mostrar(){
+        document.getElementById("secCercado").style.display = "block";
+      }
+    </script>
 
     <section class="container bodies">
+      <br>
+      <h1 class="text-center">Nuestras Tarifas</h1>
+      <section class="mr-5 ml-5">
+        <hr>
+        <div class="row">
+          <div class="col-md-3">
+            <div class="card">
+              <div class="dropdown">
+                <h6 class="dropdown-header">Tarífas</h6>
+                <a class="dropdown-item" href="#" onclick="Mostrar()">Cercado</a>
+                <a class="dropdown-item" href="#" onclick="Mostrar()">Mariano Melgar</a>
+                <a class="dropdown-item" href="#" onclick="Mostrar()">Paucarpata</a>
+                <a class="dropdown-item" href="#" onclick="Mostrar()">Miraflores</a>
+                <a class="dropdown-item" href="#" onclick="Mostrar()">Sabandia</a>
+                <a class="dropdown-item" href="#" onclick="Mostrar()">Characato</a>
+                <a class="dropdown-item" href="#" onclick="Mostrar()">Socabaya</a>
+                <a class="dropdown-item" href="#" onclick="Mostrar()">Cayma</a>
+                <a class="dropdown-item" href="#" onclick="Mostrar()">Umacollo</a>
+                <a class="dropdown-item" href="#" onclick="Mostrar()">Tiabaya</a>
+                <a class="dropdown-item" href="#" onclick="Mostrar()">Yanahuara</a>
+                <a class="dropdown-item" href="#" onclick="Mostrar()">Cerro Colorado</a>
+                <a class="dropdown-item" href="#" onclick="Mostrar()">Jacobo D. Hunter</a>
+                <a class="dropdown-item" href="#" onclick="Mostrar()">Sachaca</a>
+                <a class="dropdown-item" href="#" onclick="Mostrar()">Uchumayo</a>
+                <a class="dropdown-item" href="#" onclick="Mostrar()">J.L.B. y Rivero</a>
+                <a class="dropdown-item" href="#" onclick="Mostrar()">Selva Alegre</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-9">
+            <section id="Cercado" style="display:none;">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th colspan="2">Cercado</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th>Destino</th>
+                  <th>Precio desde Base</th>
+                  </tr>
+                  <tr>
+                    <td>Parque Lambramani/Nota Camino Real</td>
+                    <td>S/ 5.00</td>
+                  </tr>
+                  <tr>
+                    <td>Coliseo Arequipa/Hospital Goyeneche(Emergencia)</td>
+                    <td>S/ 6.00</td>
+                  </tr>
+                  <tr>
+                    <td>IV. Cetenario/Urb. Municipal/La Perla</td>
+                    <td>S/ 6.00</td>
+                  </tr>
+                  <tr>
+                    <td>Plaza de armas/María Isabel</td>
+                    <td>S/ 8.00</td>
+                  </tr>
+                  <tr>
+                    <td>Urb. Aurora/Coop. Universitaria</td>
+                    <td>S/ 6.00</td>
+                  </tr>
+                  <tr>
+                    <td>La Negrita/La Victoria/Don Bosco</td>
+                    <td>S/ 7.00</td>
+                  </tr>
+                  <tr>
+                    <td>Palomar/Plaza España </td>
+                    <td>S/ 7.00</td>
+                  </tr>
+                  <tr>
+                    <td>Francisco Mostajo/SEDAPAR</td>
+                    <td>S/ 6.00</td>
+                  </tr>
+                  <tr>
+                    <td>Vallecito (Los pinos, La Arboleda)</td>
+                    <td>S/ 8.00</td>
+                  </tr>
+                  <tr>
+                    <td>Registros Públicos</td>
+                    <td>S/ 8.00</td>
+                  </tr>
+                  <tr>
+                    <td>Av. La Marina (Plaza Vea)</td>
+                    <td>S/ 8.00</td>
+                  </tr>
+                  <tr>
+                    <td>Calle Nueva</td>
 
-      <ul class="nav " data-toggle="tab" role="tablist">
-        <li class="nav-item">
-          <a class="nav-link" data-toggle="tab" href="#cercado" role="tab">Cercado</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" data-toggle="tab" href="#marianoMelgar" role="tab">Mariano Melgar</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" data-toggle="tab" href="#paucarpata" role="tab">Paucarpata</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" data-toggle="tab" href="#miraflores" role="tab">Miraflores</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" data-toggle="tab" href="#sabandia" role="tab">Sabandia</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" data-toggle="tab" href="#characato" role="tab">Characato</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" data-toggle="tab" href="#socabaya" role="tab">Socabaya</a>
-        </li>
-          <li class="nav-item">
-          <a class="nav-link" data-toggle="tab" href="#cayma" role="tab">Cayma</a>
-        </li>
-          <li class="nav-item">
-          <a class="nav-link" data-toggle="tab" href="#umacollo" role="tab">Umacollo</a>
-        </li>
-          <li class="nav-item">
-          <a class="nav-link" data-toggle="tab" href="#tiabaya" role="tab">Tiabaya</a>
-        </li>
-          <li class="nav-item">
-          <a class="nav-link" data-toggle="tab" href="#yanahuara" role="tab">Yanahuara</a>
-        </li>
-
-
-
-      </ul>
-
-        <ul class="nav" data-toggle="tab" role="tablist">
-         <li class="nav-item">
-          <a class="nav-link" data-toggle="tab" href="#cerrocolorado" role="tab">Cerro Colorado</a>
-        </li>
-          <li class="nav-item">
-          <a class="nav-link" data-toggle="tab" href="#hunter" role="tab">Hunter</a>
-        </li>
-          <li class="nav-item">
-          <a class="nav-link" data-toggle="tab" href="#sachaca" role="tab">Sachaca</a>
-        </li>
-
-          <li class="nav-item">
-          <a class="nav-link" data-toggle="tab" href="#uchumayo" role="tab">Uchumayo</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" data-toggle="tab" href="#jlbyrivero" role="tab">J.L.B y Rivero</a>
-        </li>
-           <li class="nav-item">
-          <a class="nav-link" data-toggle="tab" href="#selvaalegre" role="tab">Selva Alegre</a>
-        </li>
-        </ul>
+                    <td>S/ 7.00</td>
+                  </tr>
+                  <tr>
+                    <td>Estadio Melgar/Barraca</td>
+                    <td>S/ 7.00</td>
+                  </tr>
+                  <tr>
+                    <td>Parque Selva Alegre</td>
+                    <td>S/ 9.00</td>
+                  </tr>
+                  <tr>
+                    <td>Filtro/Municipalidad/Seguro Social/Peral</td>
+                    <td>S/ 8.00</td>
+                  </tr>
+                  <tr>
+                    <td>San Lázaro/Universidad San Pablo</td>
+                    <td>S/ 10.00</td>
+                  </tr>
+                </tbody>
+              </table>
+            </section>
+            <section id="secMarianoMelgar" style="width:300px; height:300px; background:blue; display:none;"></section>
+            <section id="secCercado" style="width:300px; height:300px; background:green; display:none;"></section>
+            <section id="secCercado" style="width:300px; height:300px; background:green; display:none;"></section>
+            <section id="secCercado" style="width:300px; height:300px; background:green; display:none;"></section>
+            <section id="secCercado" style="width:300px; height:300px; background:green; display:none;"></section>
+            <section id="secCercado" style="width:300px; height:300px; background:green; display:none;"></section>
+            <section id="secCercado" style="width:300px; height:300px; background:green; display:none;"></section>
+            <section id="secCercado" style="width:300px; height:300px; background:green; display:none;"></section>
+            <section id="secCercado" style="width:300px; height:300px; background:green; display:none;"></section>
+            <section id="secCercado" style="width:300px; height:300px; background:green; display:none;"></section>
+          </div>
+        </div>
+      </section>
 
 
       <div class="container mt-4">
         <div class="tab-content mt-4">
           <div class="tab-pane active" id="cercado" role="tabpanel">
-            <table class="table">
-              <thead>
-                <tr>
-                  <th colspan="2">Cercado</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <th>Destino</th>
-                <th>Precio desde Base</th>
-                </tr>
-                <tr>
-                  <td>Parque Lambramani/Nota Camino Real</td>
-                  <td>S/ 5.00</td>
-                </tr>
-                <tr>
-                  <td>Coliseo Arequipa/Hospital Goyeneche(Emergencia)</td>
-                  <td>S/ 6.00</td>
-                </tr>
-                <tr>
-                  <td>IV. Cetenario/Urb. Municipal/La Perla</td>
-                  <td>S/ 6.00</td>
-                </tr>
-                <tr>
-                  <td>Plaza de armas/María Isabel</td>
-                  <td>S/ 8.00</td>
-                </tr>
-                <tr>
-                  <td>Urb. Aurora/Coop. Universitaria</td>
-                  <td>S/ 6.00</td>
-                </tr>
-                <tr>
-                  <td>La Negrita/La Victoria/Don Bosco</td>
-                  <td>S/ 7.00</td>
-                </tr>
-                <tr>
-                  <td>Palomar/Plaza España </td>
-                  <td>S/ 7.00</td>
-                </tr>
-                <tr>
-                  <td>Francisco Mostajo/SEDAPAR</td>
-                  <td>S/ 6.00</td>
-                </tr>
-                <tr>
-                  <td>Vallecito (Los pinos, La Arboleda)</td>
-                  <td>S/ 8.00</td>
-                </tr>
-                <tr>
-                  <td>Registros Públicos</td>
-                  <td>S/ 8.00</td>
-                </tr>
-                <tr>
-                  <td>Av. La Marina (Plaza Vea)</td>
-                  <td>S/ 8.00</td>
-                </tr>
-                <tr>
-                  <td>Calle Nueva</td>
 
-                  <td>S/ 7.00</td>
-                </tr>
-                <tr>
-                  <td>Estadio Melgar/Barraca</td>
-                  <td>S/ 7.00</td>
-                </tr>
-                <tr>
-                  <td>Parque Selva Alegre</td>
-                  <td>S/ 9.00</td>
-                </tr>
-                <tr>
-                  <td>Filtro/Municipalidad/Seguro Social/Peral</td>
-                  <td>S/ 8.00</td>
-                </tr>
-                <tr>
-                  <td>San Lázaro/Universidad San Pablo</td>
-                  <td>S/ 10.00</td>
-                </tr>
-              </tbody>
-            </table>
           </div>
+
           <div class="tab-pane" id="marianoMelgar" role="tabpanel">
 
           <table class="table">
@@ -1169,7 +1159,7 @@
                   <td>PP.JJ Independencia Colegio Beethoven</td>
                   <td>S/ 13.00</td>
                 </tr>
-                
+
               </tbody>
             </table>
           </div>

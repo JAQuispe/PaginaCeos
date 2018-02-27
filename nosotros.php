@@ -80,9 +80,9 @@
               <h5>Honradez</h5>
               <footer>
                 <small>
-                  Aquel hombre que pierde la honra por el negocio, pierde el negocio y la honra                 </small>
-
-                                </footer>
+                  Aquel hombre que pierde la honra por el negocio, pierde el negocio y la honra
+                </small>
+              </footer>
             </blockquote>
           </div>
           <div class="card">
