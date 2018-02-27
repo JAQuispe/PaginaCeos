@@ -10,7 +10,7 @@
     <script src="js/jquery.textillate.js"></script>
     <link href="css/animate.css" rel="stylesheet">
     <link href="css/hover-min.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300|Pontano+Sans" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300|Pontano+Sans|Josefin+Sans|Acme|Patua+One" rel="stylesheet">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/mystyle.css">
   </head>

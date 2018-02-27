@@ -3,7 +3,8 @@ body {
     padding: 0;
     background-image: url("../imagenes/fond.jpg");
     background-size: cover;
-    font-family: 'Pontano Sans', sans-serif;
+    /*font-family: 'Pontano Sans', sans-serif;*/
+    font-family: 'Josefin Sans', sans-serif;
     font-size: 16px;
 }
 
@@ -48,7 +49,9 @@ p{
 }
 
 h1, h3{
-  font-family: 'Open Sans', sans-serif;
+  /*font-family: 'Open Sans', sans-serif;*/
+ /*font-family: 'Acme', sans-serif;*/
+ font-family: 'Josefin Sans', cursive;
 }
 
 nav{
