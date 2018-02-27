@@ -26,7 +26,7 @@
 
           <div class="col-md-1"></div>
            <div class="col-md-2">
-            <img  src="imagenes/afiliacion1.jpg" class="rounded-circle float-right mr-5 hvr-bounce-in" width="200" height="200" alt="Generic placeholder image">
+            <img  src="imagenes/afiliacion1.jpg" class="rounded-circle float-right mr-5 hvr-bounce-in" width="280" height="200" alt="Generic placeholder image">
            </div>
          </div>
 
@@ -48,7 +48,7 @@
 
           <div class="col-md-1"></div>
            <div class="col-md-2">
-             <img src="imagenes/afiliacion2.jpg" class="rounded-circle float-right mr-5 hvr-bounce-in" width="200" height="200" alt="Generic placeholder image">
+             <img src="imagenes/afiliacion2.jpg" class="rounded-circle float-right mr-5 hvr-bounce-in" width="280" height="200" alt="Generic placeholder image">
            </div>
          </div>
 
@@ -73,7 +73,7 @@
 
           <div class="col-md-1"></div>
            <div class="col-md-2">
-             <img src="imagenes/afiliacion3.JPG" class="rounded-circle float-right mr-5 hvr-bounce-in" width="200" height="200" alt="Generic placeholder image">
+             <img src="imagenes/afiliacion3.JPG" class="rounded-circle float-right mr-5 hvr-bounce-in" width="280" height="200" alt="Generic placeholder image">
            </div>
          </div><br>
 
@@ -91,7 +91,7 @@
 
           <div class="col-md-1"></div>
            <div class="col-md-2">
-             <img src="imagenes/afiliacion4.JPG" class="rounded-circle float-right mr-5 hvr-bounce-in" width="200" height="200" alt="Generic placeholder image">
+             <img src="imagenes/afiliacion4.JPG" class="rounded-circle float-right mr-5 hvr-bounce-in" width="280" height="200" alt="Generic placeholder image">
            </div>
          </div>
        </section>

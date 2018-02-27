@@ -15,7 +15,6 @@
               La facturación debe ser superior a S/. 2,000.00 nuevos soles mensuales.</center>
             </p>
           </div>
-          <div class="col-md-1"></div>
           <div class="col-md-3 ">
             <img class="rounded-circle hvr-bounce-in" src="imagenes/aaa.png" height="200px" width="280px" >  <!-- la imagen debe estar 200 x 200 px-->
           </div>
@@ -40,7 +39,6 @@
               Traslados y recojo al aeropuerto. Proporcionar un servicio de transporte turístico de alta calidad para sus clientes en un nivel de precio razonable. Aspiramos a ganar confianza de nuestros clientes con cortesía, servicio personalizado y de alto nivel en taxi.</center>
             </p>
           </div>
-          <div class="col-md-1"></div>
           <div class="col-md-3">
             <img class="rounded-circle hvr-bounce-in" src="imagenes/bbb.png" height="200px" width="280px">  <!-- la imagen debe estar 200 x 200 px-->
           </div>
@@ -59,12 +57,12 @@
             </p>
           </div>
         </div>
-        <div class="row justify-content-center align-items-center">
+              <div class="row justify-content-center align-items-center">
           <div class="col-md-8">
             <h3><center>Matrimonios </center>  </h3>
             <p><center>Si contratáis los servicios de Taxi tendréis arreglo floral en la unidad y otros detalles a solicitud con anticipación. Tambien la seguridad de llegar puntuales e impecables a la celebración, tanto vosotros como vuestros invitados. La organización trabaja con un equipo de conductores profesionales garantizando una atención personalizada y todas las comodidades en el traslado.</center></p>
           </div>
-          <div class="col-md-1"></div>
+
           <div class="col-md-3">
             <img class="rounded-circle hvr-bounce-in" src="imagenes/matrimonio.JPG" height="200px" width="280px">  <!-- la imagen debe estar 200 x 200 px-->
           </div>
