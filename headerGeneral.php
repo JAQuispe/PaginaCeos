@@ -10,7 +10,7 @@
     <script src="js/jquery.textillate.js"></script>
     <link href="css/animate.css" rel="stylesheet">
     <link href="css/hover-min.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300|Pontano+Sans" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300|Pontano+Sans|Josefin+Sans|Acme|Patua+One" rel="stylesheet">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/mystyle.css">
   </head>
@@ -40,7 +40,7 @@
       <!--Slider-->
       <script>
         $(window).scroll(function() {
-          if ($("#menuB").offset().top > 10) {
+          if ($("#menuB").offset().top > 200) {
               $("#menuB").addClass("opaque-navbar");
           } else {
               $("#menuB").removeClass("opaque-navbar");

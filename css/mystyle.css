@@ -3,13 +3,14 @@ body {
     padding: 0;
     background-image: url("../imagenes/fond.jpg");
     background-size: cover;
-    font-family: 'Pontano Sans', sans-serif;
+    /*font-family: 'Pontano Sans', sans-serif;*/
+    font-family: 'Josefin Sans', sans-serif;
     font-size: 16px;
 }
 
 .slider{
   background: url("../imagenes/100MEDIA/DSC00253.jpg");
-  height: 65vh;
+  height: 110vh;
   background-size: cover;
   background-position: center bottom;
 }
@@ -31,10 +32,11 @@ body {
   height: 60px;
   line-height: 60px;
   background-color: #292b2c;
+  /*background-color: rgba(0,0,0,0.4);*/
 }
 
 .opaque-navbar {
-  background-color: rgba(0,0,0,0.4);
+  background-color: #292b2c;
   /* Transparent = rgba(0,0,0,0) / Translucent = (0,0,0,0.5)  */
   border-bottom: 0px;
 }
@@ -48,20 +50,24 @@ p{
 }
 
 h1, h3{
-  font-family: 'Open Sans', sans-serif;
+  /*font-family: 'Open Sans', sans-serif;*/
+ /*font-family: 'Acme', sans-serif;*/
+ /*font-family: 'Josefin Sans', cursive;*/
+ font-family: 'Patua One', cursive;
 }
 
 nav{
-  background-color: #006699;
+  background-color: rgba(0,0,0,0.4);
+  /*background-color: #006699;*/
   /*background-color: rgba(0,0,0,0.0);*/
   transition: background-color .5s ease 0s;
 }
 
 .pinto{
   color: white;
-  font-size: 4rem;
+  font-size: 6vw;
   font-family: 'Lobster', cursive;
-  text-shadow: -3px -3px 3px #000000, 3px -3px 3px #000000, -3px 3px 3px #000000, 3px 3px 3px #000000;
+  text-shadow: -5px -5px 5px #000000, 5px -5px 5px #000000, -5px 5px 5px #000000, 5px 5px 5px #000000;
 }
 
 #map {

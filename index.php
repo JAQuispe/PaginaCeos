@@ -2,20 +2,20 @@
       require ('header.php');
 ?>
 
-    <section class="container bodies">
+    <!--<section class="container bodies">
       <br>
-      <h1 class="text-center">Somos Ceos Tours</h1>
+      <h1 class="text-center">Estamos a tu Servicio</h1>
       <section class="ml-5 mr-5">
         <hr>
         <div class="card-deck">
           <div class="card">
             <img class="card-img-top img-fluid hvr-grow" src="imagenes/portada.jpg" alt="Card image cap">
             <div class="card-block">
-              <h4 class="card-title">NUESTROS SERVICIOS</h4>
+              <h3 class="card-title">NUESTROS SERVICIOS</h3>
               <span style="line-height:1.4em;">
-                <span style="font-weight:bold;"> Taxi Directo</span>
+                <span style="font-weight:bold;"> Servicios al aeropuerto </span>
               </span>
-              <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p class="card-text">Traslados y recojo al aeropuerto. Proporcionar un servicio de transporte turístico de alta calidad para sus clientes en un nivel de precio razonable. Aspiramos a ganar confianza de nuestros clientes con cortesía, servicio personalizado y de alto nivel en taxi.</p>
             <a class="btn btn-primary" href="servicios.php" role="button">Ver más</a>
             </div>
           </div>
@@ -36,10 +36,10 @@
         </div>
 
         <div class="card mt-4">
-          <h2 class="block-title text-center" style="font-weight:bold;">Tarifario</h2>
+          <h3 class="block-title text-center mt-3">Tarifario</h3>
           <div class="card-block">
             <div>
-              <FONT  SIZE=4 COLOR="teal">Buscamos que tengas la mejor experencia con nuestro servicio. Así que te brindamos el TARIFARIO CEOS para que puedas saber cuàl es la tarifa adecuada para nuetros servicios.</FONT>
+              <FONT>Buscamos que tengas la mejor experencia con nuestro servicio. Así que te brindamos el TARIFARIO CEOS para que puedas saber cuàl es la tarifa adecuada para nuetros servicios.</FONT>
               <div id="next_button" align="right">
                 <a class="btn btn-primary " href="tarifas.php" role="button">Ver Tarifário</a>
               </div>
@@ -48,6 +48,6 @@
         </div>
       </section>
       <br>
-    </section>
+    </section>-->
 
     <?php require ('footer.php'); ?>
