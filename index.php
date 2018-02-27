@@ -2,9 +2,9 @@
       require ('header.php');
 ?>
 
-    <section class="container bodies">
+    <!--<section class="container bodies">
       <br>
-      <h1 class="text-center">Somos Ceos Tours</h1>
+      <h1 class="text-center">Estamos a tu Servicio</h1>
       <section class="ml-5 mr-5">
         <hr>
         <div class="card-deck">
@@ -36,10 +36,10 @@
         </div>
 
         <div class="card mt-4">
-          <h2 class="block-title text-center" style="font-weight:bold;">Tarifario</h2>
+          <h3 class="block-title text-center mt-3">Tarifario</h3>
           <div class="card-block">
             <div>
-              <FONT  SIZE=4 COLOR="teal">Buscamos que tengas la mejor experencia con nuestro servicio. Así que te brindamos el TARIFARIO CEOS para que puedas saber cuàl es la tarifa adecuada para nuetros servicios.</FONT>
+              <FONT>Buscamos que tengas la mejor experencia con nuestro servicio. Así que te brindamos el TARIFARIO CEOS para que puedas saber cuàl es la tarifa adecuada para nuetros servicios.</FONT>
               <div id="next_button" align="right">
                 <a class="btn btn-primary " href="tarifas.php" role="button">Ver Tarifário</a>
               </div>
@@ -48,6 +48,6 @@
         </div>
       </section>
       <br>
-    </section>
+    </section>-->
 
     <?php require ('footer.php'); ?>

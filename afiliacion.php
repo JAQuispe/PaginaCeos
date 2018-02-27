@@ -7,7 +7,7 @@
        <h1 class="text-center">Afiliación</h1>
        <section class="ml-5 mr-5">
          <hr>
-         <div class="row">
+         <div class="row justify-content-center align-items-center">
            <div class="col-md-9">
              <h3>Ventajas</h3>
              <ul>
@@ -28,9 +28,9 @@
            <div class="col-md-2">
             <img  src="imagenes/afiliacion1.jpg" class="rounded-circle float-right mr-5 hvr-bounce-in" width="280" height="200" alt="Generic placeholder image">
            </div>
-         </div>
+         </div><br>
 
-         <div class="row">
+         <div class="row justify-content-center align-items-center">
            <div class="col-md-9">
              <h3>Requisitos de Afiliación</h3>
              <ul>
@@ -50,13 +50,13 @@
            <div class="col-md-2">
              <img src="imagenes/afiliacion2.jpg" class="rounded-circle float-right mr-5 hvr-bounce-in" width="280" height="200" alt="Generic placeholder image">
            </div>
-         </div>
+         </div><br>
 
-          <div class="row">
+          <div class="row justify-content-center align-items-center">
             
           <div class="col-md-1"></div>
           </div>
-         <div class="row">
+         <div class="row justify-content-center align-items-center">
            <div class="col-md-9">
              <h3>Condiciones de Afiliado</h3>
              <ul>
@@ -77,7 +77,7 @@
            </div>
          </div><br>
 
-         <div class="row">
+         <div class="row justify-content-center align-items-center">
            <div class="col-md-9">
              <h3>Obligaciones del afiliado</h3>
              <ul>
@@ -93,7 +93,7 @@
            <div class="col-md-2">
              <img src="imagenes/afiliacion4.JPG" class="rounded-circle float-right mr-5 hvr-bounce-in" width="280" height="200" alt="Generic placeholder image">
            </div>
-         </div>
+         </div><br>
        </section>
        <br>
     </section>

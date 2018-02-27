@@ -79,7 +79,7 @@
           </div>
         </div>
       </section>
-      <br>
+      <br><br>
     </section>
 
     <?php require ('footer.php'); ?>
