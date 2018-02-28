@@ -16,7 +16,7 @@
   </head>
   <body>
     <section class="container-fluid <?php if($page=='inicio') {echo 'slider';} else {echo 'sliderB';}?> d-flex justify-content-center align-items-center">
-      <h1 class="tlt pinto mifuente">
+      <h1 class="tlt pinto mifuente" style="display:<?php if($page=='inicio') {echo 'block';} else {echo 'none';}?>">
         <ul class="texts">
           <li data-in-effect="flash" data-in-shuffle="true" data-out-effect="fadeIn" data-out-reverse="true">Excelencia</li>
           <li data-in-effect="flash" data-in-shuffle="true" data-out-effect="fadeIn" data-out-reverse="true">Honradez</li>
@@ -50,3 +50,14 @@
         </div>
       </div>
     </nav>
+
+    <!--Slider-->
+    <script>
+      $(window).scroll(function() {
+        if ($("#menu").offset().top > 200) {
+            $("#menu").addClass("opaque-navbar");
+        } else {
+            $("#menu").removeClass("opaque-navbar");
+        }
+      });
+    </script>

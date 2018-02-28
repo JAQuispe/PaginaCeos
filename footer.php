@@ -1,5 +1,5 @@
 
-    <footer class="footer">
+    <footer class="<?php if($page=='inicio') {echo 'footerI';} else {echo 'footer';}?>">
       <div class="container text-center">
         <span class="text-muted">Derechos reservados &copy; Ceos Tour 2018.</span>
       </div>
