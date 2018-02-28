@@ -1,5 +1,5 @@
 <?php $page='servicios';
-      require ('headerGeneral.php');
+      require ('header.php');
 ?>
 
     <section class="container bodies">
@@ -53,7 +53,7 @@
             <h3><center >City Tour </center></h3>
             <p><center>
             El mirador de Carmen Alto, Iglesia de la compañía, Mirador de Yanahuara, Monasterio de Santa Catalina, Plaza de Armas, Mirador de Sachaca, Mansión del fundador, etc.
-              También realizamos Tour a Cañón del Colca.</center> 
+              También realizamos Tour a Cañón del Colca.</center>
             </p>
           </div>
         </div>

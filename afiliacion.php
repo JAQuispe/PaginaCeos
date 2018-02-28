@@ -1,5 +1,5 @@
 <?php $page='afiliacion';
-      require ('headerGeneral.php');
+      require ('header.php');
 ?>
 
      <section class="container bodies">
@@ -53,7 +53,7 @@
          </div><br>
 
           <div class="row justify-content-center align-items-center">
-            
+
           <div class="col-md-1"></div>
           </div>
          <div class="row justify-content-center align-items-center">

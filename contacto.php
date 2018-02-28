@@ -1,5 +1,5 @@
 <?php $page='contacto';
-      require ('headerGeneral.php');
+      require ('header.php');
 ?>
     <section class="container bodies">
       <br>

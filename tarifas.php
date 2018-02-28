@@ -1,5 +1,5 @@
 <?php $page='tarifas';
-      require ('headerGeneral.php');
+      require ('header.php');
 ?>
     <script type="text/javascript">
       function Mostrar(){
@@ -38,7 +38,7 @@
             </div>
           </div>
           <div class="col-md-9">
-            <section id="Cercado" style="display:none;">
+            <section id="secCercado" style="display:none;">
               <table class="table">
                 <thead>
                   <tr>
