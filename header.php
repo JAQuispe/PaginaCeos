@@ -13,7 +13,7 @@
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300|Pontano+Sans|Lobster|Josefin+Sans|Acme|Patua+One" rel="stylesheet">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/mystyle.css">
-    <link rel="shortcut icon" href="imagenes/logo.png">
+    <link rel="shortcut icon" href="imagenes/pintopito.png">
   </head>
   <body>
     <section class="container-fluid <?php if($page=='inicio') {echo 'slider';} else {echo 'sliderB';}?> d-flex justify-content-center align-items-center">
