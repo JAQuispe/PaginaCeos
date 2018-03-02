@@ -9,7 +9,7 @@ body {
 }
 
 .slider{
-  background: no-repeat url("../imagenes/100MEDIA/fondoinicio.base64");
+  background: no-repeat url("../imagenes/portada.JPG");
   height: 100%;
   width: 100%;
   background-size: cover;
@@ -18,7 +18,7 @@ body {
 }
 
 .sliderB{
-  background: url("../imagenes/100MEDIA/DSC00429.jpg");
+  background: url("../imagenes/portada2.jpg");
   height: 35vh;
   background-size: cover;
   background-position: center bottom;
