@@ -74,11 +74,11 @@ nav{
   transition: background-color .5s ease 0s;
 }
 
-.pinto{
+.pinto2{
   color: white;
-  font-size: 6vw;
-  font-family: 'Lobster', cursive;
-  text-shadow: -5px -5px 5px #000000, 5px -5px 5px #000000, -5px 5px 5px #000000, 5px 5px 5px #000000;
+  font-size: 12vmin;
+  font-family: 'Kaushan Script', cursive;
+  text-shadow: -2px -2px 2px #000000, 2px -2px 2px #000000, -2px 2px 2px #000000, 2px 2px 28px #000000;
 }
 
 #map {

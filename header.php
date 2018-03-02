@@ -10,14 +10,14 @@
     <script src="js/jquery.textillate.js"></script>
     <link href="css/animate.css" rel="stylesheet">
     <link href="css/hover-min.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300|Pontano+Sans|Lobster|Josefin+Sans|Acme|Patua+One" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300|Pontano+Sans|Lobster|Josefin+Sans|Acme|Patua+One|Kaushan+Script" rel="stylesheet">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/mystyle.css">
     <link rel="shortcut icon" href="imagenes/icono.png">
   </head>
   <body>
     <section class="container-fluid <?php if($page=='inicio') {echo 'slider';} else {echo 'sliderB';}?> d-flex justify-content-center align-items-center">
-      <h1 class="tlt pinto" style="display:<?php if($page=='inicio') {echo 'block';} else {echo 'none';}?>">
+      <h1 id="letras" class="tlt pinto2" style="display:<?php if($page=='inicio') {echo 'block';} else {echo 'none';}?>">
         <ul class="texts">
           <li data-in-effect="flash" data-in-shuffle="true" data-out-effect="fadeIn" data-out-reverse="true">Excelencia</li>
           <li data-in-effect="flash" data-in-shuffle="true" data-out-effect="fadeIn" data-out-reverse="true">Honradez</li>
